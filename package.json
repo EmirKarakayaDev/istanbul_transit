@@ -1,0 +1,36 @@
+{
+  "name": "istanbul_transit",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "pipeline": "npx tsx scripts/generateGrid.ts && npx tsx scripts/bindPopulation.ts && npx tsx scripts/bindJobs.ts && npx tsx scripts/buildCostSurface.ts",
+    "generate-grid": "npx tsx scripts/generateGrid.ts",
+    "bind-population": "npx tsx scripts/bindPopulation.ts",
+    "bind-jobs": "npx tsx scripts/bindJobs.ts",
+    "build-cost-surface": "npx tsx scripts/buildCostSurface.ts"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.2.1",
+    "@types/mapbox-gl": "^3.4.1",
+    "@types/node": "^25.5.0",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "autoprefixer": "^10.4.27",
+    "postcss": "^8.5.8",
+    "tailwindcss": "^4.2.1",
+    "tsx": "^4.21.0",
+    "typescript": "~5.9.3",
+    "vite": "^8.0.0"
+  },
+  "dependencies": {
+    "@turf/turf": "^7.3.4",
+    "mapbox-gl": "^3.20.0",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "zustand": "^5.0.11"
+  }
+}

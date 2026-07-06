@@ -1,0 +1,6082 @@
+{
+  "districts": [
+    {
+      "name": "Adalar",
+      "population": 17489,
+      "lat": 40.87725745776717,
+      "lon": 29.094681517408134,
+      "neighborhoods": [
+        {
+          "name": "Maden",
+          "population": 5005,
+          "lat": 40.87293443558036,
+          "lon": 29.133096892242037
+        },
+        {
+          "name": "Heybeliada",
+          "population": 4661,
+          "lat": 40.87762100984534,
+          "lon": 29.09882857486602
+        },
+        {
+          "name": "Nizam",
+          "population": 4066,
+          "lat": 40.87297910906824,
+          "lon": 29.12733666803291
+        },
+        {
+          "name": "Kınalıada",
+          "population": 2044,
+          "lat": 40.90899522368275,
+          "lon": 29.054573715952046
+        },
+        {
+          "name": "Burgazada",
+          "population": 1713,
+          "lat": 40.880327516516985,
+          "lon": 29.069058365923922
+        }
+      ]
+    },
+    {
+      "name": "Arnavutköy",
+      "population": 358469,
+      "lat": 41.18704675320063,
+      "lon": 28.742538101038605,
+      "neighborhoods": [
+        {
+          "name": "Anadolu",
+          "population": 49342,
+          "lat": 41.18549,
+          "lon": 28.749133
+        },
+        {
+          "name": "Hadımköy",
+          "population": 27984,
+          "lat": 41.158607992028976,
+          "lon": 28.620977899745355
+        },
+        {
+          "name": "İslambey",
+          "population": 27838,
+          "lat": 41.189575267785614,
+          "lon": 28.742104033393332
+        },
+        {
+          "name": "Arnavutköy Merkez",
+          "population": 23571,
+          "lat": 41.1813276818676,
+          "lon": 28.743158601817925
+        },
+        {
+          "name": "Yunus Emre",
+          "population": 20759,
+          "lat": 41.18504558620003,
+          "lon": 28.760873891348183
+        },
+        {
+          "name": "Mustafa Kemal Paşa",
+          "population": 18855,
+          "lat": 41.187649644262876,
+          "lon": 28.734758363326222
+        },
+        {
+          "name": "Yavuz Selim",
+          "population": 13655,
+          "lat": 41.20790036487327,
+          "lon": 28.7314145790713
+        },
+        {
+          "name": "Boğazköy İstiklal",
+          "population": 13133,
+          "lat": 41.18171818884093,
+          "lon": 28.773852982406396
+        },
+        {
+          "name": "Taşoluk",
+          "population": 12382,
+          "lat": 41.195321129900265,
+          "lon": 28.71583522788484
+        },
+        {
+          "name": "İmrahor",
+          "population": 12184,
+          "lat": 41.21606094945619,
+          "lon": 28.746677134831316
+        },
+        {
+          "name": "Haraççı",
+          "population": 12042,
+          "lat": 41.175980116882386,
+          "lon": 28.702704753247275
+        },
+        {
+          "name": "Nenehatun",
+          "population": 11868,
+          "lat": 41.20096673260119,
+          "lon": 28.729375686233396
+        },
+        {
+          "name": "Karlıbayır",
+          "population": 11576,
+          "lat": 41.18070668760171,
+          "lon": 28.715019665987825
+        },
+        {
+          "name": "Hastane",
+          "population": 11483,
+          "lat": 41.15364834399929,
+          "lon": 28.619374693869815
+        },
+        {
+          "name": "Atatürk",
+          "population": 11063,
+          "lat": 41.18921767421463,
+          "lon": 28.758458361001033
+        },
+        {
+          "name": "Mavigöl",
+          "population": 10633,
+          "lat": 41.204538828295,
+          "lon": 28.764527345498607
+        },
+        {
+          "name": "Deliklikaya",
+          "population": 8983,
+          "lat": 41.11209642571853,
+          "lon": 28.65491311991184
+        },
+        {
+          "name": "Bolluca",
+          "population": 8496,
+          "lat": 41.19807470899059,
+          "lon": 28.766877112278024
+        },
+        {
+          "name": "Mehmet Akif Ersoy",
+          "population": 8132,
+          "lat": 41.20765496009162,
+          "lon": 28.70873988080905
+        },
+        {
+          "name": "Ömerli",
+          "population": 7619,
+          "lat": 41.11612526622477,
+          "lon": 28.638063340759203
+        },
+        {
+          "name": "Mareşal Fevzi Çakmak",
+          "population": 7423,
+          "lat": 41.203666641355085,
+          "lon": 28.719996779179496
+        },
+        {
+          "name": "Adnan Menderes",
+          "population": 4728,
+          "lat": 41.213483552388965,
+          "lon": 28.702299189346036
+        },
+        {
+          "name": "Hicret",
+          "population": 4454,
+          "lat": 41.197789082618016,
+          "lon": 28.75526702798254
+        },
+        {
+          "name": "Fatih",
+          "population": 3995,
+          "lat": 41.21998644478845,
+          "lon": 28.70221763363267
+        },
+        {
+          "name": "Tayakadın",
+          "population": 3688,
+          "lat": 41.26918834517065,
+          "lon": 28.690343939722936
+        },
+        {
+          "name": "Karaburun",
+          "population": 2018,
+          "lat": 41.3403581681568,
+          "lon": 28.6809488376542
+        },
+        {
+          "name": "Yeniköy",
+          "population": 1585,
+          "lat": 41.31807436809822,
+          "lon": 28.722933213244147
+        },
+        {
+          "name": "Çilingir",
+          "population": 1174,
+          "lat": 41.18813346673471,
+          "lon": 28.67815648347829
+        },
+        {
+          "name": "Sazlıbosna",
+          "population": 1096,
+          "lat": 41.15515351462483,
+          "lon": 28.674200621718512
+        },
+        {
+          "name": "Yassıören",
+          "population": 1057,
+          "lat": 41.23481892574176,
+          "lon": 28.595451943675215
+        },
+        {
+          "name": "Terkos",
+          "population": 933,
+          "lat": 41.30449613195492,
+          "lon": 28.675710371062706
+        },
+        {
+          "name": "Baklalı",
+          "population": 873,
+          "lat": 41.2588589811748,
+          "lon": 28.652998192613097
+        },
+        {
+          "name": "Boyalık",
+          "population": 856,
+          "lat": 41.263390968975614,
+          "lon": 28.62905488538533
+        },
+        {
+          "name": "Durusu",
+          "population": 743,
+          "lat": 41.3007693484206,
+          "lon": 28.678179900938744
+        },
+        {
+          "name": "Hacımaşlı",
+          "population": 693,
+          "lat": 41.15559671148168,
+          "lon": 28.713470107431675
+        },
+        {
+          "name": "Yeşilbayır",
+          "population": 631,
+          "lat": 41.12997653971112,
+          "lon": 28.60788772433949
+        },
+        {
+          "name": "Dursunköy",
+          "population": 470,
+          "lat": 41.203557,
+          "lon": 28.634755
+        },
+        {
+          "name": "Balaban",
+          "population": 454,
+          "lat": 41.30941967737101,
+          "lon": 28.613542760057385
+        }
+      ]
+    },
+    {
+      "name": "Ataşehir",
+      "population": 412125,
+      "lat": 40.99274419677923,
+      "lon": 29.113340709998624,
+      "neighborhoods": [
+        {
+          "name": "İçerenköy",
+          "population": 69112,
+          "lat": 40.97035741146567,
+          "lon": 29.110992207083598
+        },
+        {
+          "name": "Kayışdağı",
+          "population": 41203,
+          "lat": 40.98281390487003,
+          "lon": 29.14295281187006
+        },
+        {
+          "name": "Atatürk",
+          "population": 33451,
+          "lat": 40.990416311965305,
+          "lon": 29.12720812355181
+        },
+        {
+          "name": "Esatpaşa",
+          "population": 32949,
+          "lat": 41.00495807509668,
+          "lon": 29.082637502597947
+        },
+        {
+          "name": "İnönü",
+          "population": 30860,
+          "lat": 40.97644479350271,
+          "lon": 29.138641828321767
+        },
+        {
+          "name": "Barbaros",
+          "population": 30487,
+          "lat": 40.990270142003766,
+          "lon": 29.102802027257695
+        },
+        {
+          "name": "Küçükbakkalköy",
+          "population": 29413,
+          "lat": 40.98067911645725,
+          "lon": 29.11285820850196
+        },
+        {
+          "name": "Örnek",
+          "population": 27070,
+          "lat": 40.995847362220786,
+          "lon": 29.078677009790766
+        },
+        {
+          "name": "Ferhatpaşa",
+          "population": 20310,
+          "lat": 40.98558484910336,
+          "lon": 29.180874697202
+        },
+        {
+          "name": "Mevlana",
+          "population": 17403,
+          "lat": 40.986138015669155,
+          "lon": 29.153048689926152
+        },
+        {
+          "name": "Mustafa Kemal",
+          "population": 13509,
+          "lat": 41.00153811285949,
+          "lon": 29.095052124282404
+        },
+        {
+          "name": "Yeni Çamlıca",
+          "population": 12583,
+          "lat": 40.989791,
+          "lon": 29.163933
+        },
+        {
+          "name": "Aşık Veysel",
+          "population": 12389,
+          "lat": 41.00518126563355,
+          "lon": 29.09142822932418
+        },
+        {
+          "name": "Fetih",
+          "population": 11476,
+          "lat": 41.0045844744117,
+          "lon": 29.076011293477904
+        },
+        {
+          "name": "Yenişehir",
+          "population": 10958,
+          "lat": 40.99429550638044,
+          "lon": 29.140374743603815
+        },
+        {
+          "name": "Mimar Sinan",
+          "population": 9591,
+          "lat": 40.985564557308834,
+          "lon": 29.159500518088947
+        },
+        {
+          "name": "Yenisahra",
+          "population": 9361,
+          "lat": 40.988805094394195,
+          "lon": 29.09097736850788
+        }
+      ]
+    },
+    {
+      "name": "Avcılar",
+      "population": 440663,
+      "lat": 40.9794779862666,
+      "lon": 28.72090112369264,
+      "neighborhoods": [
+        {
+          "name": "Yeşilkent",
+          "population": 74003,
+          "lat": 41.031606222125475,
+          "lon": 28.702487207884815
+        },
+        {
+          "name": "Tahtakale",
+          "population": 68599,
+          "lat": 41.05798995734,
+          "lon": 28.727008714003375
+        },
+        {
+          "name": "Cihangir",
+          "population": 60632,
+          "lat": 40.98757192590969,
+          "lon": 28.709087003573927
+        },
+        {
+          "name": "Mustafa Kemalpaşa",
+          "population": 45252,
+          "lat": 41.00210613544547,
+          "lon": 28.706153116138893
+        },
+        {
+          "name": "Denizköşkler",
+          "population": 39439,
+          "lat": 40.97619358774787,
+          "lon": 28.732855359386292
+        },
+        {
+          "name": "Gümüşpala",
+          "population": 36857,
+          "lat": 40.98092290126078,
+          "lon": 28.736358457911592
+        },
+        {
+          "name": "Ambarlı",
+          "population": 32888,
+          "lat": 40.974513333913706,
+          "lon": 28.71470885936091
+        },
+        {
+          "name": "Üniversite",
+          "population": 32302,
+          "lat": 40.990067732506674,
+          "lon": 28.720188905806054
+        },
+        {
+          "name": "Merkez",
+          "population": 26592,
+          "lat": 40.981731807472954,
+          "lon": 28.72245688903945
+        },
+        {
+          "name": "Firuzköy",
+          "population": 24099,
+          "lat": 41.0090377013409,
+          "lon": 28.7105278608461
+        }
+      ]
+    },
+    {
+      "name": "Bahçelievler",
+      "population": 539035,
+      "lat": 41.002173858874926,
+      "lon": 28.865354684491336,
+      "neighborhoods": [
+        {
+          "name": "Zafer",
+          "population": 76701,
+          "lat": 41.000394906383235,
+          "lon": 28.83794239374228
+        },
+        {
+          "name": "Kocasinan Merkez",
+          "population": 69725,
+          "lat": 41.0170357,
+          "lon": 28.8419751
+        },
+        {
+          "name": "Soğanlı",
+          "population": 61359,
+          "lat": 41.010466162465434,
+          "lon": 28.854929359107814
+        },
+        {
+          "name": "Bahçelievler",
+          "population": 56928,
+          "lat": 41.003752010577415,
+          "lon": 28.871072454446107
+        },
+        {
+          "name": "Siyavuşpaşa",
+          "population": 53704,
+          "lat": 41.000783,
+          "lon": 28.855404
+        },
+        {
+          "name": "Şirinevler",
+          "population": 51979,
+          "lat": 40.995925464467916,
+          "lon": 28.848858342935984
+        },
+        {
+          "name": "Hürriyet",
+          "population": 42183,
+          "lat": 40.9941482,
+          "lon": 28.8411642
+        },
+        {
+          "name": "Cumhuriyet",
+          "population": 37961,
+          "lat": 41.017287333283036,
+          "lon": 28.85292839517382
+        },
+        {
+          "name": "Yenibosna Merkez",
+          "population": 36301,
+          "lat": 41.01381834065981,
+          "lon": 28.82507801985693
+        },
+        {
+          "name": "Çobançeşme",
+          "population": 30107,
+          "lat": 41.00397306780977,
+          "lon": 28.826585404171425
+        },
+        {
+          "name": "Fevzi Çakmak",
+          "population": 22087,
+          "lat": 41.0016533,
+          "lon": 28.8329435
+        }
+      ]
+    },
+    {
+      "name": "Bakırköy",
+      "population": 218204,
+      "lat": 40.97760347405847,
+      "lon": 28.87402394162129,
+      "neighborhoods": [
+        {
+          "name": "Kartaltepe",
+          "population": 34375,
+          "lat": 40.98557982519327,
+          "lon": 28.875732578742912
+        },
+        {
+          "name": "Şenlikköy",
+          "population": 27990,
+          "lat": 40.9811494,
+          "lon": 28.7951449
+        },
+        {
+          "name": "Ataköy 7-8-9-10. Kısım",
+          "population": 25967,
+          "lat": 40.98575812731178,
+          "lon": 28.84662140314171
+        },
+        {
+          "name": "Yeşilköy",
+          "population": 24813,
+          "lat": 40.95888937404297,
+          "lon": 28.822660943666733
+        },
+        {
+          "name": "Osmaniye",
+          "population": 22271,
+          "lat": 40.99370436644065,
+          "lon": 28.878476720161558
+        },
+        {
+          "name": "Zuhuratbaba",
+          "population": 20191,
+          "lat": 40.98220176729461,
+          "lon": 28.8710527967647
+        },
+        {
+          "name": "Ataköy 2-5-6. Kısım",
+          "population": 14158,
+          "lat": 40.97784653558867,
+          "lon": 28.85747823813864
+        },
+        {
+          "name": "Sakızağacı",
+          "population": 8550,
+          "lat": 40.978066932140166,
+          "lon": 28.881298605315635
+        },
+        {
+          "name": "Yeşilyurt",
+          "population": 8257,
+          "lat": 40.963310115388964,
+          "lon": 28.8372961587815
+        },
+        {
+          "name": "Ataköy 3-4-11. Kısım",
+          "population": 7685,
+          "lat": 40.98106844258203,
+          "lon": 28.859654390476464
+        },
+        {
+          "name": "Yenimahalle",
+          "population": 6364,
+          "lat": 40.980643250106056,
+          "lon": 28.883291209189025
+        },
+        {
+          "name": "Basınköy",
+          "population": 5789,
+          "lat": 40.97902948433111,
+          "lon": 28.78043242531274
+        },
+        {
+          "name": "Zeytinlik",
+          "population": 5170,
+          "lat": 40.97847690230418,
+          "lon": 28.872219922695308
+        },
+        {
+          "name": "Cevizlik",
+          "population": 5074,
+          "lat": 40.978325364949086,
+          "lon": 28.87550676513976
+        },
+        {
+          "name": "Ataköy 1. Kısım",
+          "population": 1550,
+          "lat": 40.977321421177805,
+          "lon": 28.8677036506339
+        }
+      ]
+    },
+    {
+      "name": "Bayrampaşa",
+      "population": 272978,
+      "lat": 41.03449105575365,
+      "lon": 28.911787903919617,
+      "neighborhoods": [
+        {
+          "name": "Yıldırım",
+          "population": 52454,
+          "lat": 41.064336,
+          "lon": 28.892073
+        },
+        {
+          "name": "Kartaltepe",
+          "population": 43635,
+          "lat": 41.055433193992684,
+          "lon": 28.903590560610866
+        },
+        {
+          "name": "Muratpaşa",
+          "population": 33119,
+          "lat": 41.047747352500636,
+          "lon": 28.90629765177627
+        },
+        {
+          "name": "Altıntepsi",
+          "population": 29996,
+          "lat": 41.03884525507385,
+          "lon": 28.900676521344792
+        },
+        {
+          "name": "Kocatepe",
+          "population": 20553,
+          "lat": 41.051269439436936,
+          "lon": 28.897774943845405
+        },
+        {
+          "name": "Cevatpaşa",
+          "population": 18739,
+          "lat": 41.07079136750795,
+          "lon": 28.8846952732722
+        },
+        {
+          "name": "Yenidoğan",
+          "population": 18545,
+          "lat": 41.03753468618177,
+          "lon": 28.91206956406546
+        },
+        {
+          "name": "Orta",
+          "population": 15778,
+          "lat": 41.03307716962212,
+          "lon": 28.913725344489166
+        },
+        {
+          "name": "Terazidere",
+          "population": 15437,
+          "lat": 41.032516,
+          "lon": 28.90091
+        },
+        {
+          "name": "İsmet Paşa",
+          "population": 15048,
+          "lat": 41.0416528,
+          "lon": 28.9066208
+        },
+        {
+          "name": "Vatan",
+          "population": 9674,
+          "lat": 41.034145797700035,
+          "lon": 28.907233601565906
+        }
+      ]
+    },
+    {
+      "name": "Bağcılar",
+      "population": 707635,
+      "lat": 41.03441586846179,
+      "lon": 28.857088123346045,
+      "neighborhoods": [
+        {
+          "name": "Demirkapı",
+          "population": 54601,
+          "lat": 41.04940687649477,
+          "lon": 28.836725300157582
+        },
+        {
+          "name": "15 Temmuz",
+          "population": 49634,
+          "lat": 41.038367402267056,
+          "lon": 28.819295128551175
+        },
+        {
+          "name": "100. Yıl",
+          "population": 44925,
+          "lat": 41.06377605791843,
+          "lon": 28.85276279705124
+        },
+        {
+          "name": "Güneşli",
+          "population": 44175,
+          "lat": 41.03361639574916,
+          "lon": 28.83048787711232
+        },
+        {
+          "name": "Göztepe",
+          "population": 40178,
+          "lat": 41.06034393811336,
+          "lon": 28.835986274175355
+        },
+        {
+          "name": "Fatih",
+          "population": 39414,
+          "lat": 41.05156967712841,
+          "lon": 28.844690804299887
+        },
+        {
+          "name": "Kirazlı",
+          "population": 39023,
+          "lat": 41.0343451922528,
+          "lon": 28.836651833878932
+        },
+        {
+          "name": "Yıldıztepe",
+          "population": 35528,
+          "lat": 41.02625546264767,
+          "lon": 28.855323572860385
+        },
+        {
+          "name": "Yenimahalle",
+          "population": 34524,
+          "lat": 41.041907250570574,
+          "lon": 28.83957823313071
+        },
+        {
+          "name": "Fevzi Çakmak",
+          "population": 32776,
+          "lat": 41.045758726425845,
+          "lon": 28.855597781658076
+        },
+        {
+          "name": "Çınar",
+          "population": 32526,
+          "lat": 41.036592210461265,
+          "lon": 28.860805616469435
+        },
+        {
+          "name": "Kemalpaşa",
+          "population": 31131,
+          "lat": 41.051024,
+          "lon": 28.85124
+        },
+        {
+          "name": "Yavuz Selim",
+          "population": 26892,
+          "lat": 41.036371406316505,
+          "lon": 28.849296082122095
+        },
+        {
+          "name": "Merkez",
+          "population": 26590,
+          "lat": 41.0323551,
+          "lon": 28.8633027
+        },
+        {
+          "name": "Kazım Karabekir",
+          "population": 26441,
+          "lat": 41.0256078,
+          "lon": 28.8455217
+        },
+        {
+          "name": "Mahmutbey",
+          "population": 25535,
+          "lat": 41.05660860259832,
+          "lon": 28.8251556140942
+        },
+        {
+          "name": "Hürriyet",
+          "population": 24973,
+          "lat": 41.02828174644904,
+          "lon": 28.83027332416583
+        },
+        {
+          "name": "İnönü",
+          "population": 22370,
+          "lat": 41.03142581547323,
+          "lon": 28.84752059262746
+        },
+        {
+          "name": "Yenigün",
+          "population": 20552,
+          "lat": 41.022504,
+          "lon": 28.85942
+        },
+        {
+          "name": "Barbaros",
+          "population": 19786,
+          "lat": 41.02416800621069,
+          "lon": 28.838276730012353
+        },
+        {
+          "name": "Sancaktepe",
+          "population": 18984,
+          "lat": 41.036955800572116,
+          "lon": 28.856804761986155
+        },
+        {
+          "name": "Bağlar",
+          "population": 17077,
+          "lat": 41.02342230887689,
+          "lon": 28.824804890617287
+        }
+      ]
+    },
+    {
+      "name": "Başakşehir",
+      "population": 536669,
+      "lat": 41.10651747132505,
+      "lon": 28.796104595635427,
+      "neighborhoods": [
+        {
+          "name": "Kayabaşı",
+          "population": 118479,
+          "lat": 41.1121556454969,
+          "lon": 28.742952966074654
+        },
+        {
+          "name": "Güvercintepe",
+          "population": 79017,
+          "lat": 41.07827211642089,
+          "lon": 28.751778869233704
+        },
+        {
+          "name": "Başakşehir",
+          "population": 72735,
+          "lat": 41.10633283994102,
+          "lon": 28.790232854673093
+        },
+        {
+          "name": "Başak",
+          "population": 71065,
+          "lat": 41.10225300320451,
+          "lon": 28.80310115586292
+        },
+        {
+          "name": "Bahçeşehir 2. Kısım",
+          "population": 63770,
+          "lat": 41.06768546232746,
+          "lon": 28.67812322740994
+        },
+        {
+          "name": "Bahçeşehir 1. Kısım",
+          "population": 37997,
+          "lat": 41.063779684330626,
+          "lon": 28.69184468096995
+        },
+        {
+          "name": "Ziya Gökalp",
+          "population": 31877,
+          "lat": 41.07604288344271,
+          "lon": 28.788377092441152
+        },
+        {
+          "name": "Şahintepe",
+          "population": 31117,
+          "lat": 41.07390220329535,
+          "lon": 28.72607387589531
+        },
+        {
+          "name": "Altınşehir",
+          "population": 29367,
+          "lat": 41.0683933379315,
+          "lon": 28.752971355905544
+        },
+        {
+          "name": "Şamlar",
+          "population": 1245,
+          "lat": 41.12429562137788,
+          "lon": 28.73852200443764
+        }
+      ]
+    },
+    {
+      "name": "Beykoz",
+      "population": 246833,
+      "lat": 41.134200091395485,
+      "lon": 29.099997017915,
+      "neighborhoods": [
+        {
+          "name": "Kavacık",
+          "population": 22383,
+          "lat": 41.09375349268305,
+          "lon": 29.08573258532047
+        },
+        {
+          "name": "Çubuklu",
+          "population": 20137,
+          "lat": 41.10631018979112,
+          "lon": 29.08259347313907
+        },
+        {
+          "name": "Yeni Mahalle",
+          "population": 18933,
+          "lat": 41.06819286617065,
+          "lon": 29.08271607915006
+        },
+        {
+          "name": "İncirköy",
+          "population": 16348,
+          "lat": 41.11879823673348,
+          "lon": 29.101426382673935
+        },
+        {
+          "name": "Tokatköy",
+          "population": 13719,
+          "lat": 41.151455906815244,
+          "lon": 29.090258239939487
+        },
+        {
+          "name": "Gümüşsuyu",
+          "population": 12968,
+          "lat": 41.12732733060568,
+          "lon": 29.10274117079058
+        },
+        {
+          "name": "Çiğdem",
+          "population": 10849,
+          "lat": 41.109889913388116,
+          "lon": 29.0994879931597
+        },
+        {
+          "name": "Soğuksu",
+          "population": 10668,
+          "lat": 41.11258586973511,
+          "lon": 29.108052562136834
+        },
+        {
+          "name": "Göztepe",
+          "population": 9983,
+          "lat": 41.081124287035806,
+          "lon": 29.080244929148876
+        },
+        {
+          "name": "Acarlar",
+          "population": 9488,
+          "lat": 41.11161641816108,
+          "lon": 29.127664622269975
+        },
+        {
+          "name": "Rüzgarlıbahçe",
+          "population": 7879,
+          "lat": 41.095163580138916,
+          "lon": 29.098983640637954
+        },
+        {
+          "name": "Ortaçeşme",
+          "population": 7723,
+          "lat": 41.14531196665439,
+          "lon": 29.08773751258471
+        },
+        {
+          "name": "Çamlıbahçe",
+          "population": 6036,
+          "lat": 41.14830908255621,
+          "lon": 29.083138290745268
+        },
+        {
+          "name": "Merkez",
+          "population": 5785,
+          "lat": 41.134393693711246,
+          "lon": 29.092348936812755
+        },
+        {
+          "name": "Çavuşbaşı Çiftlik",
+          "population": 5702,
+          "lat": 41.0805835,
+          "lon": 29.1402268
+        },
+        {
+          "name": "Yavuz Selim",
+          "population": 5552,
+          "lat": 41.08136231759849,
+          "lon": 29.15663591686277
+        },
+        {
+          "name": "Çengeldere",
+          "population": 5407,
+          "lat": 41.09581808850365,
+          "lon": 29.145667443466493
+        },
+        {
+          "name": "Yalıköy",
+          "population": 5102,
+          "lat": 41.138063050716994,
+          "lon": 29.085759694553445
+        },
+        {
+          "name": "Örnekköy",
+          "population": 4345,
+          "lat": 41.14226321111141,
+          "lon": 29.14607438016489
+        },
+        {
+          "name": "Fatih",
+          "population": 4296,
+          "lat": 41.089666244286434,
+          "lon": 29.124030512401305
+        },
+        {
+          "name": "Riva",
+          "population": 3978,
+          "lat": 41.2240526888925,
+          "lon": 29.21898383491805
+        },
+        {
+          "name": "Kanlıca",
+          "population": 3885,
+          "lat": 41.099484489385986,
+          "lon": 29.066919979575403
+        },
+        {
+          "name": "Paşabahçe",
+          "population": 3659,
+          "lat": 41.11532927337029,
+          "lon": 29.095491492785982
+        },
+        {
+          "name": "Baklacı",
+          "population": 3260,
+          "lat": 41.062899647307205,
+          "lon": 29.16051351584028
+        },
+        {
+          "name": "Elmalı",
+          "population": 3133,
+          "lat": 41.13670522886858,
+          "lon": 29.132767947106032
+        },
+        {
+          "name": "Akbaba",
+          "population": 2762,
+          "lat": 41.15026251017591,
+          "lon": 29.115436038501485
+        },
+        {
+          "name": "Anadolu Hisarı",
+          "population": 2474,
+          "lat": 41.08404988818489,
+          "lon": 29.068406079632183
+        },
+        {
+          "name": "Göksu",
+          "population": 2317,
+          "lat": 41.07877099173808,
+          "lon": 29.07377806034006
+        },
+        {
+          "name": "Görele",
+          "population": 2029,
+          "lat": 41.115258666518855,
+          "lon": 29.148459927420788
+        },
+        {
+          "name": "Cumhuriyetköy",
+          "population": 1989,
+          "lat": 41.1290646,
+          "lon": 29.2607444
+        },
+        {
+          "name": "Mahmutşevketpaşa",
+          "population": 1827,
+          "lat": 41.152147358235425,
+          "lon": 29.18905503300678
+        },
+        {
+          "name": "Dereseki",
+          "population": 1647,
+          "lat": 41.151904350851,
+          "lon": 29.129469293532537
+        },
+        {
+          "name": "Anadolu Kavağı",
+          "population": 1466,
+          "lat": 41.17409640809598,
+          "lon": 29.089454496669873
+        },
+        {
+          "name": "Paşamandıra",
+          "population": 1373,
+          "lat": 41.18399755632285,
+          "lon": 29.249741023219144
+        },
+        {
+          "name": "İshaklı",
+          "population": 1367,
+          "lat": 41.13976288595731,
+          "lon": 29.302711116719394
+        },
+        {
+          "name": "Zerzavatçı",
+          "population": 1078,
+          "lat": 41.12743064394883,
+          "lon": 29.15919452887843
+        },
+        {
+          "name": "Poyrazköy",
+          "population": 881,
+          "lat": 41.20622125370224,
+          "lon": 29.13336205012473
+        },
+        {
+          "name": "Kaynarca",
+          "population": 772,
+          "lat": 41.18017428804259,
+          "lon": 29.1600064138793
+        },
+        {
+          "name": "Alibahadır",
+          "population": 767,
+          "lat": 41.179656925116234,
+          "lon": 29.20292241436934
+        },
+        {
+          "name": "Anadolufeneri",
+          "population": 741,
+          "lat": 41.2167549,
+          "lon": 29.1533999
+        },
+        {
+          "name": "Kılıçlı",
+          "population": 547,
+          "lat": 41.15294907705817,
+          "lon": 29.300134497751827
+        },
+        {
+          "name": "Öğümce",
+          "population": 474,
+          "lat": 41.163044220871484,
+          "lon": 29.267022982329678
+        },
+        {
+          "name": "Bozhane",
+          "population": 470,
+          "lat": 41.16412463195982,
+          "lon": 29.272702639758933
+        },
+        {
+          "name": "Polonezköy",
+          "population": 388,
+          "lat": 41.11015274122644,
+          "lon": 29.211090241456276
+        },
+        {
+          "name": "Göllü",
+          "population": 246,
+          "lat": 41.17521655610727,
+          "lon": 29.271675755487564
+        }
+      ]
+    },
+    {
+      "name": "Beylikdüzü",
+      "population": 422920,
+      "lat": 41.00348582902171,
+      "lon": 28.635543751531998,
+      "neighborhoods": [
+        {
+          "name": "Adnan Kahveci",
+          "population": 111164,
+          "lat": 40.99488763362794,
+          "lon": 28.625548569139227
+        },
+        {
+          "name": "Kavaklı",
+          "population": 67292,
+          "lat": 40.981589995752984,
+          "lon": 28.639942779734042
+        },
+        {
+          "name": "Yakuplu",
+          "population": 58863,
+          "lat": 40.99007791999364,
+          "lon": 28.669966370538162
+        },
+        {
+          "name": "Barış",
+          "population": 55725,
+          "lat": 40.998836213712764,
+          "lon": 28.65259877470308
+        },
+        {
+          "name": "Marmara",
+          "population": 31850,
+          "lat": 40.98169634953183,
+          "lon": 28.672600606536008
+        },
+        {
+          "name": "Cumhuriyet",
+          "population": 26174,
+          "lat": 41.009682693369626,
+          "lon": 28.640351835888367
+        },
+        {
+          "name": "Dereağzı",
+          "population": 21965,
+          "lat": 40.97652135641732,
+          "lon": 28.619097937144915
+        },
+        {
+          "name": "Büyükşehir",
+          "population": 21125,
+          "lat": 41.00864757859853,
+          "lon": 28.647724891528355
+        },
+        {
+          "name": "Gürpınar",
+          "population": 20388,
+          "lat": 40.98983310444447,
+          "lon": 28.611673676884664
+        },
+        {
+          "name": "Sahil",
+          "population": 8374,
+          "lat": 40.967200359370736,
+          "lon": 28.64380997691856
+        }
+      ]
+    },
+    {
+      "name": "Beyoğlu",
+      "population": 215991,
+      "lat": 41.0291849934527,
+      "lon": 28.973808879728324,
+      "neighborhoods": [
+        {
+          "name": "Piyalepaşa",
+          "population": 20512,
+          "lat": 41.04832992568146,
+          "lon": 28.962275764757635
+        },
+        {
+          "name": "Kaptanpaşa",
+          "population": 18630,
+          "lat": 41.042303037063874,
+          "lon": 28.964004358204022
+        },
+        {
+          "name": "Piripaşa",
+          "population": 15303,
+          "lat": 41.0482004,
+          "lon": 28.9591566
+        },
+        {
+          "name": "Hacıahmet",
+          "population": 14999,
+          "lat": 41.04168506654224,
+          "lon": 28.97204429502827
+        },
+        {
+          "name": "Sütlüce",
+          "population": 13750,
+          "lat": 41.051105353355325,
+          "lon": 28.94436826834567
+        },
+        {
+          "name": "Keçeci Piri",
+          "population": 13462,
+          "lat": 41.040502,
+          "lon": 28.954834
+        },
+        {
+          "name": "Halıcıoğlu",
+          "population": 12420,
+          "lat": 41.048893,
+          "lon": 28.949829
+        },
+        {
+          "name": "Fetihtepe",
+          "population": 12301,
+          "lat": 41.048324,
+          "lon": 28.956716
+        },
+        {
+          "name": "Örnektepe",
+          "population": 11201,
+          "lat": 41.057770708194,
+          "lon": 28.95186307687345
+        },
+        {
+          "name": "Kadımehmet Efendi",
+          "population": 8877,
+          "lat": 41.034193,
+          "lon": 28.964083
+        },
+        {
+          "name": "Kulaksız",
+          "population": 8650,
+          "lat": 41.038052170699075,
+          "lon": 28.96080341522861
+        },
+        {
+          "name": "Küçük Piyale",
+          "population": 8330,
+          "lat": 41.036622,
+          "lon": 28.967958
+        },
+        {
+          "name": "Yenişehir",
+          "population": 5118,
+          "lat": 41.042369,
+          "lon": 28.978449
+        },
+        {
+          "name": "İstiklal",
+          "population": 5048,
+          "lat": 41.0416191,
+          "lon": 28.9692374
+        },
+        {
+          "name": "Sururi Mehmet Efendi",
+          "population": 3886,
+          "lat": 41.036896,
+          "lon": 28.972436
+        },
+        {
+          "name": "Firuzağa",
+          "population": 3675,
+          "lat": 41.029885,
+          "lon": 28.980814
+        },
+        {
+          "name": "Yahya Kahya",
+          "population": 3382,
+          "lat": 41.033859,
+          "lon": 28.971892
+        },
+        {
+          "name": "Cihangir",
+          "population": 3190,
+          "lat": 41.033175,
+          "lon": 28.985738
+        },
+        {
+          "name": "Bülbül",
+          "population": 2657,
+          "lat": 41.03927,
+          "lon": 28.979723
+        },
+        {
+          "name": "Camiikebir",
+          "population": 2475,
+          "lat": 41.03509083063179,
+          "lon": 28.95877339269404
+        },
+        {
+          "name": "Tomtom",
+          "population": 2410,
+          "lat": 41.03019251148632,
+          "lon": 28.97795740683236
+        },
+        {
+          "name": "Kalyoncu Kulluğu",
+          "population": 2304,
+          "lat": 41.036877,
+          "lon": 28.975525
+        },
+        {
+          "name": "Kılıçali Paşa",
+          "population": 2132,
+          "lat": 41.02837744253429,
+          "lon": 28.984403160103852
+        },
+        {
+          "name": "Çatma Mescit",
+          "population": 2046,
+          "lat": 41.032093,
+          "lon": 28.971434
+        },
+        {
+          "name": "Gümüşsuyu",
+          "population": 1954,
+          "lat": 41.03615420569565,
+          "lon": 28.988017387207975
+        },
+        {
+          "name": "Ömer Avni",
+          "population": 1884,
+          "lat": 41.034948,
+          "lon": 28.992117
+        },
+        {
+          "name": "Bostan",
+          "population": 1788,
+          "lat": 41.038609,
+          "lon": 28.976188
+        },
+        {
+          "name": "Çukur",
+          "population": 1746,
+          "lat": 41.03739,
+          "lon": 28.978049
+        },
+        {
+          "name": "Pürtelaş Hasan Efendi",
+          "population": 1738,
+          "lat": 41.030672,
+          "lon": 28.987694
+        },
+        {
+          "name": "Kocatepe",
+          "population": 1401,
+          "lat": 41.03972833938914,
+          "lon": 28.98347249334475
+        },
+        {
+          "name": "Kuloğlu",
+          "population": 1349,
+          "lat": 41.032992,
+          "lon": 28.980074
+        },
+        {
+          "name": "Şehit Muhtar",
+          "population": 1178,
+          "lat": 41.036713,
+          "lon": 28.981796
+        },
+        {
+          "name": "Hacımimi",
+          "population": 1136,
+          "lat": 41.02661,
+          "lon": 28.978261
+        },
+        {
+          "name": "Katipmustafa Çelebi",
+          "population": 699,
+          "lat": 41.03439,
+          "lon": 28.982777
+        },
+        {
+          "name": "Şahkulu",
+          "population": 680,
+          "lat": 41.027791,
+          "lon": 28.974178
+        },
+        {
+          "name": "Kamer Hatun",
+          "population": 662,
+          "lat": 41.034914,
+          "lon": 28.975417
+        },
+        {
+          "name": "Bedrettin",
+          "population": 594,
+          "lat": 41.0288,
+          "lon": 28.969505
+        },
+        {
+          "name": "Müeyyetzade",
+          "population": 491,
+          "lat": 41.0263951,
+          "lon": 28.9748578
+        },
+        {
+          "name": "Hüseyinağa",
+          "population": 483,
+          "lat": 41.034952,
+          "lon": 28.978751
+        },
+        {
+          "name": "Asmalı Mescit",
+          "population": 438,
+          "lat": 41.031333,
+          "lon": 28.97523
+        },
+        {
+          "name": "Bereketzade",
+          "population": 369,
+          "lat": 41.025475,
+          "lon": 28.9734
+        },
+        {
+          "name": "Evliya Çelebi",
+          "population": 258,
+          "lat": 41.0303999,
+          "lon": 28.9731508
+        },
+        {
+          "name": "Emekyemez",
+          "population": 168,
+          "lat": 41.02598,
+          "lon": 28.970224
+        },
+        {
+          "name": "Kemankeş Karamustafapaşa",
+          "population": 128,
+          "lat": 41.024016,
+          "lon": 28.97878
+        },
+        {
+          "name": "Arap Cami",
+          "population": 89,
+          "lat": 41.02410262887295,
+          "lon": 28.971029625529724
+        }
+      ]
+    },
+    {
+      "name": "Beşiktaş",
+      "population": 165895,
+      "lat": 41.0430452179572,
+      "lon": 29.007762813916344,
+      "neighborhoods": [
+        {
+          "name": "Konaklar",
+          "population": 15699,
+          "lat": 41.095019,
+          "lon": 29.015556
+        },
+        {
+          "name": "Dikilitaş",
+          "population": 14642,
+          "lat": 41.05597600413958,
+          "lon": 29.004887036254644
+        },
+        {
+          "name": "Gayrettepe",
+          "population": 12701,
+          "lat": 41.061691234738845,
+          "lon": 29.006249099039735
+        },
+        {
+          "name": "Akat",
+          "population": 12089,
+          "lat": 41.08560117978777,
+          "lon": 29.026413355830556
+        },
+        {
+          "name": "Nisbetiye",
+          "population": 11004,
+          "lat": 41.071211,
+          "lon": 29.0238195
+        },
+        {
+          "name": "Etiler",
+          "population": 10290,
+          "lat": 41.084144,
+          "lon": 29.036605
+        },
+        {
+          "name": "Türkali",
+          "population": 9618,
+          "lat": 41.04785,
+          "lon": 29.001662
+        },
+        {
+          "name": "Mecidiye",
+          "population": 9486,
+          "lat": 41.051541664097215,
+          "lon": 29.02095810631016
+        },
+        {
+          "name": "Ortaköy",
+          "population": 9031,
+          "lat": 41.054421100115746,
+          "lon": 29.028018102049288
+        },
+        {
+          "name": "Vişnezade",
+          "population": 8320,
+          "lat": 41.04219763307748,
+          "lon": 28.99859379139002
+        },
+        {
+          "name": "Ulus",
+          "population": 6715,
+          "lat": 41.064767827553226,
+          "lon": 29.027091700522277
+        },
+        {
+          "name": "Levazım",
+          "population": 6049,
+          "lat": 41.062422668722064,
+          "lon": 29.01946805381388
+        },
+        {
+          "name": "Bebek",
+          "population": 4935,
+          "lat": 41.07913472234887,
+          "lon": 29.043838251314867
+        },
+        {
+          "name": "Yıldız",
+          "population": 4635,
+          "lat": 41.044088444093944,
+          "lon": 29.01096874770667
+        },
+        {
+          "name": "Muradiye",
+          "population": 4493,
+          "lat": 41.047835,
+          "lon": 28.998657
+        },
+        {
+          "name": "Kültür",
+          "population": 4485,
+          "lat": 41.07295215983467,
+          "lon": 29.032005915770952
+        },
+        {
+          "name": "Abbasağa",
+          "population": 4054,
+          "lat": 41.049611,
+          "lon": 29.004915
+        },
+        {
+          "name": "Cihannüma",
+          "population": 3405,
+          "lat": 41.046647931076535,
+          "lon": 29.00798906013597
+        },
+        {
+          "name": "Arnavutköy",
+          "population": 3371,
+          "lat": 41.06751000632488,
+          "lon": 29.042750555891928
+        },
+        {
+          "name": "Balmumcu",
+          "population": 3044,
+          "lat": 41.05894881332651,
+          "lon": 29.015244611699984
+        },
+        {
+          "name": "Levent",
+          "population": 2831,
+          "lat": 41.081459,
+          "lon": 29.016395
+        },
+        {
+          "name": "Kuruçeşme",
+          "population": 2791,
+          "lat": 41.06196273248531,
+          "lon": 29.034587961071963
+        },
+        {
+          "name": "Sinanpaşa",
+          "population": 2207,
+          "lat": 41.04241032386315,
+          "lon": 29.0047844533662
+        }
+      ]
+    },
+    {
+      "name": "Büyükçekmece",
+      "population": 283239,
+      "lat": 41.02181052743768,
+      "lon": 28.58347296476464,
+      "neighborhoods": [
+        {
+          "name": "Pınartepe",
+          "population": 23435,
+          "lat": 41.00248069896642,
+          "lon": 28.60336443315711
+        },
+        {
+          "name": "Hürriyet",
+          "population": 22881,
+          "lat": 41.032020764517256,
+          "lon": 28.547237780250015
+        },
+        {
+          "name": "Mimaroba",
+          "population": 20010,
+          "lat": 41.0050863819566,
+          "lon": 28.536404087723895
+        },
+        {
+          "name": "Murat Çesme",
+          "population": 19532,
+          "lat": 41.017836347474145,
+          "lon": 28.54022076052587
+        },
+        {
+          "name": "Fatih",
+          "population": 17857,
+          "lat": 41.020356068852635,
+          "lon": 28.586794436692742
+        },
+        {
+          "name": "Atatürk",
+          "population": 17157,
+          "lat": 41.01216829127429,
+          "lon": 28.600397104949025
+        },
+        {
+          "name": "Ulus",
+          "population": 16280,
+          "lat": 41.02726300187021,
+          "lon": 28.54237689715285
+        },
+        {
+          "name": "Sinanoba",
+          "population": 15778,
+          "lat": 40.99679314680651,
+          "lon": 28.536015166515455
+        },
+        {
+          "name": "Türkoba",
+          "population": 15138,
+          "lat": 41.03445636640012,
+          "lon": 28.523879295033765
+        },
+        {
+          "name": "Ekinoba",
+          "population": 14594,
+          "lat": 41.0104072114612,
+          "lon": 28.543230944955752
+        },
+        {
+          "name": "Güzelce",
+          "population": 10765,
+          "lat": 40.999912394985984,
+          "lon": 28.511554849575816
+        },
+        {
+          "name": "Kumburgaz",
+          "population": 9799,
+          "lat": 41.03142476944171,
+          "lon": 28.453890860023733
+        },
+        {
+          "name": "Kamiloba",
+          "population": 9506,
+          "lat": 41.04584461723883,
+          "lon": 28.43220858830955
+        },
+        {
+          "name": "Mimarsinan",
+          "population": 9502,
+          "lat": 41.0160925,
+          "lon": 28.5604373
+        },
+        {
+          "name": "Cumhuriyet",
+          "population": 8632,
+          "lat": 41.01845838053978,
+          "lon": 28.62023093065389
+        },
+        {
+          "name": "Celaliye",
+          "population": 8562,
+          "lat": 41.05199165867336,
+          "lon": 28.416938971155105
+        },
+        {
+          "name": "19 Mayıs",
+          "population": 8483,
+          "lat": 41.02271473740615,
+          "lon": 28.581591527315794
+        },
+        {
+          "name": "Alkent 2000",
+          "population": 8400,
+          "lat": 41.07643080514404,
+          "lon": 28.619061377065634
+        },
+        {
+          "name": "Karaağaç",
+          "population": 6480,
+          "lat": 41.10864247405388,
+          "lon": 28.591161771434514
+        },
+        {
+          "name": "Dizdariye",
+          "population": 6426,
+          "lat": 41.020721322387914,
+          "lon": 28.578219613087924
+        },
+        {
+          "name": "Çakmaklı",
+          "population": 5778,
+          "lat": 41.05296761599419,
+          "lon": 28.622697226542357
+        },
+        {
+          "name": "Bahçelievler",
+          "population": 4600,
+          "lat": 41.01825822617596,
+          "lon": 28.484499204815364
+        },
+        {
+          "name": "Yenimahalle",
+          "population": 2569,
+          "lat": 41.0222453218567,
+          "lon": 28.474085478279903
+        },
+        {
+          "name": "Ahmediye",
+          "population": 1075,
+          "lat": 41.090840345532655,
+          "lon": 28.51651119053949
+        }
+      ]
+    },
+    {
+      "name": "Esenler",
+      "population": 419878,
+      "lat": 41.03739942678368,
+      "lon": 28.882528596022922,
+      "neighborhoods": [
+        {
+          "name": "Turgut Reis",
+          "population": 41823,
+          "lat": 41.060589215092165,
+          "lon": 28.86395458228381
+        },
+        {
+          "name": "Fatih",
+          "population": 40022,
+          "lat": 41.04315079107471,
+          "lon": 28.8672249873282
+        },
+        {
+          "name": "Nine Hatun",
+          "population": 38711,
+          "lat": 41.03704974824453,
+          "lon": 28.878984391973546
+        },
+        {
+          "name": "Kazım Karabekir",
+          "population": 33364,
+          "lat": 41.046058591586416,
+          "lon": 28.873175182775185
+        },
+        {
+          "name": "Atışalanı",
+          "population": 33142,
+          "lat": 41.0563871,
+          "lon": 28.8694017
+        },
+        {
+          "name": "Oruçreis",
+          "population": 33090,
+          "lat": 41.059420056348415,
+          "lon": 28.85776802736123
+        },
+        {
+          "name": "Tuna",
+          "population": 30674,
+          "lat": 41.05281245844219,
+          "lon": 28.858859648486828
+        },
+        {
+          "name": "Fevzi Çakmak",
+          "population": 30328,
+          "lat": 41.03864603116986,
+          "lon": 28.88381896791418
+        },
+        {
+          "name": "Menderes",
+          "population": 30138,
+          "lat": 41.03970773339802,
+          "lon": 28.880093143897312
+        },
+        {
+          "name": "Birlik",
+          "population": 25740,
+          "lat": 41.05173644578193,
+          "lon": 28.871717992053476
+        },
+        {
+          "name": "Kemer",
+          "population": 21230,
+          "lat": 41.05260639628068,
+          "lon": 28.87681815957876
+        },
+        {
+          "name": "Namık Kemal",
+          "population": 15605,
+          "lat": 41.030719,
+          "lon": 28.895528
+        },
+        {
+          "name": "Davutpaşa",
+          "population": 15278,
+          "lat": 41.032146,
+          "lon": 28.890883
+        },
+        {
+          "name": "Mimar Sinan",
+          "population": 13116,
+          "lat": 41.03553181045265,
+          "lon": 28.884972577235118
+        },
+        {
+          "name": "15 Temmuz",
+          "population": 12012,
+          "lat": 41.061945460657654,
+          "lon": 28.87562732951801
+        },
+        {
+          "name": "Yavuz Selim",
+          "population": 3517,
+          "lat": 41.03512695604908,
+          "lon": 28.892377385700513
+        },
+        {
+          "name": "Çifte Havuzlar",
+          "population": 2088,
+          "lat": 41.0267887,
+          "lon": 28.8954257
+        }
+      ]
+    },
+    {
+      "name": "Esenyurt",
+      "population": 1003905,
+      "lat": 41.03327342366151,
+      "lon": 28.679821094600356,
+      "neighborhoods": [
+        {
+          "name": "Pınar",
+          "population": 42721,
+          "lat": 41.03433146275171,
+          "lon": 28.665442069174247
+        },
+        {
+          "name": "Mehterçeşme",
+          "population": 37697,
+          "lat": 41.01923559985542,
+          "lon": 28.66266746053134
+        },
+        {
+          "name": "Yeşilkent",
+          "population": 37410,
+          "lat": 41.025796628973325,
+          "lon": 28.66272421366648
+        },
+        {
+          "name": "Süleymaniye",
+          "population": 34649,
+          "lat": 41.04337256546188,
+          "lon": 28.681447875557126
+        },
+        {
+          "name": "Merkez",
+          "population": 33174,
+          "lat": 41.0350405,
+          "lon": 28.6760001
+        },
+        {
+          "name": "Çınar",
+          "population": 31971,
+          "lat": 41.04070276128783,
+          "lon": 28.66458364002108
+        },
+        {
+          "name": "Osmangazi",
+          "population": 30709,
+          "lat": 41.04238325456379,
+          "lon": 28.645925670007443
+        },
+        {
+          "name": "Selahaddin Eyyubi",
+          "population": 29837,
+          "lat": 41.04562069439393,
+          "lon": 28.662197967416148
+        },
+        {
+          "name": "Balıkyolu",
+          "population": 29640,
+          "lat": 41.038943819132356,
+          "lon": 28.690150380564717
+        },
+        {
+          "name": "Talatpaşa",
+          "population": 29151,
+          "lat": 41.023541,
+          "lon": 28.672559
+        },
+        {
+          "name": "Turgut Özal",
+          "population": 28564,
+          "lat": 41.00404272274591,
+          "lon": 28.69340129186554
+        },
+        {
+          "name": "Barbaros Hayrettin Paşa",
+          "population": 28385,
+          "lat": 41.01917503733114,
+          "lon": 28.64110171465623
+        },
+        {
+          "name": "Hürriyet",
+          "population": 28342,
+          "lat": 41.03108716600801,
+          "lon": 28.646390866793467
+        },
+        {
+          "name": "İncirtepe",
+          "population": 28130,
+          "lat": 41.020054474474705,
+          "lon": 28.6914306945842
+        },
+        {
+          "name": "Üçevler",
+          "population": 27861,
+          "lat": 41.02590744312894,
+          "lon": 28.679857274570338
+        },
+        {
+          "name": "Fatih",
+          "population": 27695,
+          "lat": 41.02942407225751,
+          "lon": 28.674604238276657
+        },
+        {
+          "name": "Akçaburgaz",
+          "population": 27530,
+          "lat": 41.07269436514579,
+          "lon": 28.633323083108195
+        },
+        {
+          "name": "Mehmet Akif Ersoy",
+          "population": 26809,
+          "lat": 41.01442649239951,
+          "lon": 28.667281154401763
+        },
+        {
+          "name": "İnönü",
+          "population": 26737,
+          "lat": 41.02632056121951,
+          "lon": 28.686621792770268
+        },
+        {
+          "name": "Zafer",
+          "population": 24513,
+          "lat": 41.017359003623284,
+          "lon": 28.685495950822315
+        },
+        {
+          "name": "Saadetdere",
+          "population": 24511,
+          "lat": 41.008645,
+          "lon": 28.697582
+        },
+        {
+          "name": "Namık Kemal",
+          "population": 23674,
+          "lat": 41.01082150082243,
+          "lon": 28.6938582290758
+        },
+        {
+          "name": "Yenikent",
+          "population": 23452,
+          "lat": 41.03750622058001,
+          "lon": 28.680733812307665
+        },
+        {
+          "name": "Sultaniye",
+          "population": 23330,
+          "lat": 41.033529,
+          "lon": 28.683809
+        },
+        {
+          "name": "Yunus Emre",
+          "population": 22691,
+          "lat": 41.02846620972741,
+          "lon": 28.69523970559851
+        },
+        {
+          "name": "Örnek",
+          "population": 20518,
+          "lat": 41.045440248293886,
+          "lon": 28.67028516250454
+        },
+        {
+          "name": "Necip Fazıl Kısakürek",
+          "population": 20015,
+          "lat": 41.031003,
+          "lon": 28.655203
+        },
+        {
+          "name": "Orhan Gazi",
+          "population": 19205,
+          "lat": 41.066677864081385,
+          "lon": 28.657054735670556
+        },
+        {
+          "name": "İstiklal",
+          "population": 18702,
+          "lat": 41.03660612210342,
+          "lon": 28.64912726993026
+        },
+        {
+          "name": "Güzelyurt",
+          "population": 17956,
+          "lat": 41.00999328853899,
+          "lon": 28.66639749509963
+        },
+        {
+          "name": "Battalgazi",
+          "population": 17733,
+          "lat": 41.03897772082439,
+          "lon": 28.656456202137036
+        },
+        {
+          "name": "Gökevler",
+          "population": 17691,
+          "lat": 41.0254,
+          "lon": 28.633286
+        },
+        {
+          "name": "Piri Reis",
+          "population": 17057,
+          "lat": 41.02054780500106,
+          "lon": 28.64837940137184
+        },
+        {
+          "name": "Şehitler",
+          "population": 16868,
+          "lat": 41.033687,
+          "lon": 28.655442
+        },
+        {
+          "name": "Atatürk",
+          "population": 15875,
+          "lat": 41.03649944990113,
+          "lon": 28.635647255672296
+        },
+        {
+          "name": "Aşık Veysel",
+          "population": 15543,
+          "lat": 41.05939119641974,
+          "lon": 28.673793195557636
+        },
+        {
+          "name": "Mevlana",
+          "population": 14560,
+          "lat": 41.012109058034156,
+          "lon": 28.655951493285727
+        },
+        {
+          "name": "Cumhuriyet",
+          "population": 14447,
+          "lat": 41.016490073570395,
+          "lon": 28.648593453439815
+        },
+        {
+          "name": "Akevler",
+          "population": 12761,
+          "lat": 41.01869140303651,
+          "lon": 28.676853598566964
+        },
+        {
+          "name": "Koza",
+          "population": 10025,
+          "lat": 41.06442599655284,
+          "lon": 28.664955109134667
+        },
+        {
+          "name": "Esenkent",
+          "population": 9351,
+          "lat": 41.05892917865697,
+          "lon": 28.68072372298974
+        },
+        {
+          "name": "Ardıçlı",
+          "population": 8322,
+          "lat": 41.046635530800785,
+          "lon": 28.679929328373646
+        },
+        {
+          "name": "Akşemseddin",
+          "population": 8093,
+          "lat": 41.01688616260935,
+          "lon": 28.69464712711499
+        }
+      ]
+    },
+    {
+      "name": "Eyüpsultan",
+      "population": 425216,
+      "lat": 41.04672753404674,
+      "lon": 28.931672616071694,
+      "neighborhoods": [
+        {
+          "name": "Göktürk Merkez",
+          "population": 39863,
+          "lat": 41.18027940952328,
+          "lon": 28.89095801412904
+        },
+        {
+          "name": "Yeşilpınar",
+          "population": 39140,
+          "lat": 41.07782746234852,
+          "lon": 28.91951266774123
+        },
+        {
+          "name": "Akşemsettin",
+          "population": 38460,
+          "lat": 41.085306056839926,
+          "lon": 28.927499805804416
+        },
+        {
+          "name": "Çırçır",
+          "population": 37389,
+          "lat": 41.079544321872675,
+          "lon": 28.938263722335705
+        },
+        {
+          "name": "Güzeltepe",
+          "population": 33813,
+          "lat": 41.07459794670501,
+          "lon": 28.953482666554606
+        },
+        {
+          "name": "Karadolap",
+          "population": 31766,
+          "lat": 41.074628,
+          "lon": 28.934087
+        },
+        {
+          "name": "Esentepe",
+          "population": 22059,
+          "lat": 41.06907120166474,
+          "lon": 28.939172111428036
+        },
+        {
+          "name": "Düğmeciler",
+          "population": 17587,
+          "lat": 41.0462414693757,
+          "lon": 28.925423033909823
+        },
+        {
+          "name": "İslambey",
+          "population": 16014,
+          "lat": 41.04652301201557,
+          "lon": 28.931332624337387
+        },
+        {
+          "name": "Nişancı",
+          "population": 14854,
+          "lat": 41.043050525642855,
+          "lon": 28.93598977262252
+        },
+        {
+          "name": "Rami Yeni",
+          "population": 14843,
+          "lat": 41.05195770078927,
+          "lon": 28.91761578652563
+        },
+        {
+          "name": "Rami Cuma",
+          "population": 14639,
+          "lat": 41.04954899035528,
+          "lon": 28.921481296232457
+        },
+        {
+          "name": "Alibeyköy",
+          "population": 13888,
+          "lat": 41.07713475738521,
+          "lon": 28.947044192052203
+        },
+        {
+          "name": "5.levent",
+          "population": 13258,
+          "lat": 41.088115553764794,
+          "lon": 28.947397479653034
+        },
+        {
+          "name": "Merkez",
+          "population": 11858,
+          "lat": 41.04731375785428,
+          "lon": 28.935025359405557
+        },
+        {
+          "name": "Emniyettepe",
+          "population": 10968,
+          "lat": 41.07013160904384,
+          "lon": 28.948737609176618
+        },
+        {
+          "name": "Sakarya",
+          "population": 10915,
+          "lat": 41.06502528226028,
+          "lon": 28.940544900782044
+        },
+        {
+          "name": "Silahtarağa",
+          "population": 10166,
+          "lat": 41.06112067616297,
+          "lon": 28.940217153908804
+        },
+        {
+          "name": "Mithatpaşa",
+          "population": 9663,
+          "lat": 41.16077345272359,
+          "lon": 28.91290803990003
+        },
+        {
+          "name": "Mimar Sinan",
+          "population": 7449,
+          "lat": 41.15846436014078,
+          "lon": 28.91547609411299
+        },
+        {
+          "name": "Topçular",
+          "population": 5324,
+          "lat": 41.041017551223774,
+          "lon": 28.92501743705421
+        },
+        {
+          "name": "Defterdar",
+          "population": 4601,
+          "lat": 41.03689675132097,
+          "lon": 28.933246496290963
+        },
+        {
+          "name": "Pirinççi",
+          "population": 3514,
+          "lat": 41.16330175122039,
+          "lon": 28.851102668119125
+        },
+        {
+          "name": "Akpınar",
+          "population": 1155,
+          "lat": 41.280028691181144,
+          "lon": 28.81053723695868
+        },
+        {
+          "name": "Ağaçlı",
+          "population": 815,
+          "lat": 41.26591518327774,
+          "lon": 28.87512654229789
+        },
+        {
+          "name": "Işıklar",
+          "population": 604,
+          "lat": 41.22704208555885,
+          "lon": 28.826944885175976
+        },
+        {
+          "name": "Odayeri",
+          "population": 247,
+          "lat": 41.235665853222486,
+          "lon": 28.853814070588385
+        },
+        {
+          "name": "Çiftalan",
+          "population": 193,
+          "lat": 41.252874818010554,
+          "lon": 28.908379587820548
+        },
+        {
+          "name": "İhsaniye",
+          "population": 171,
+          "lat": 41.24052580002672,
+          "lon": 28.808096294810042
+        }
+      ]
+    },
+    {
+      "name": "Fatih",
+      "population": 351786,
+      "lat": 41.0191295905573,
+      "lon": 28.94725220922453,
+      "neighborhoods": [
+        {
+          "name": "Seyyid Ömer",
+          "population": 23592,
+          "lat": 41.00926976044346,
+          "lon": 28.931538817826436
+        },
+        {
+          "name": "Hırka-i Şerif",
+          "population": 20502,
+          "lat": 41.02395712941271,
+          "lon": 28.940261292139468
+        },
+        {
+          "name": "Şehremini",
+          "population": 19595,
+          "lat": 41.01421516301701,
+          "lon": 28.932190946226854
+        },
+        {
+          "name": "Akşemsettin",
+          "population": 18729,
+          "lat": 41.01854533903591,
+          "lon": 28.945216557016096
+        },
+        {
+          "name": "Koca Mustafapaşa",
+          "population": 18099,
+          "lat": 40.99967,
+          "lon": 28.931019
+        },
+        {
+          "name": "Mevlanakapı",
+          "population": 17451,
+          "lat": 41.012875,
+          "lon": 28.923585
+        },
+        {
+          "name": "Derviş Ali",
+          "population": 16606,
+          "lat": 41.02978061424341,
+          "lon": 28.940101042072826
+        },
+        {
+          "name": "Yavuz Sultan Selim",
+          "population": 15723,
+          "lat": 41.02693734582235,
+          "lon": 28.954780564750507
+        },
+        {
+          "name": "Sümbül Efendi",
+          "population": 15202,
+          "lat": 41.00166640266292,
+          "lon": 28.92641960988456
+        },
+        {
+          "name": "Yedikule",
+          "population": 14847,
+          "lat": 40.993909,
+          "lon": 28.925316
+        },
+        {
+          "name": "Ayvansaray",
+          "population": 14799,
+          "lat": 41.0374979157541,
+          "lon": 28.942914460631528
+        },
+        {
+          "name": "Silivrikapı",
+          "population": 14780,
+          "lat": 41.005238,
+          "lon": 28.926738
+        },
+        {
+          "name": "Atikali",
+          "population": 13329,
+          "lat": 41.02482700817234,
+          "lon": 28.94438745990061
+        },
+        {
+          "name": "Zeyrek",
+          "population": 12360,
+          "lat": 41.01763344734397,
+          "lon": 28.95295136890377
+        },
+        {
+          "name": "Molla Gürani",
+          "population": 11701,
+          "lat": 41.012982,
+          "lon": 28.942
+        },
+        {
+          "name": "İskenderpaşa",
+          "population": 11551,
+          "lat": 41.014695086856165,
+          "lon": 28.949722093166912
+        },
+        {
+          "name": "Balat",
+          "population": 10855,
+          "lat": 41.03161042583665,
+          "lon": 28.947967091911835
+        },
+        {
+          "name": "Karagümrük",
+          "population": 10383,
+          "lat": 41.0269154631757,
+          "lon": 28.93745437975815
+        },
+        {
+          "name": "Topkapı",
+          "population": 10195,
+          "lat": 41.020390241238715,
+          "lon": 28.928375997746087
+        },
+        {
+          "name": "Ali Kuşçu",
+          "population": 9665,
+          "lat": 41.021051,
+          "lon": 28.948338
+        },
+        {
+          "name": "Haseki Sultan",
+          "population": 8945,
+          "lat": 41.00921355539114,
+          "lon": 28.945056886038884
+        },
+        {
+          "name": "Aksaray",
+          "population": 8008,
+          "lat": 41.00812879773031,
+          "lon": 28.949894692177793
+        },
+        {
+          "name": "Cerrahpaşa",
+          "population": 7459,
+          "lat": 41.005362443118884,
+          "lon": 28.935975040785053
+        },
+        {
+          "name": "Cibali",
+          "population": 6721,
+          "lat": 41.023368966322096,
+          "lon": 28.95911034239245
+        },
+        {
+          "name": "Nişanca",
+          "population": 4034,
+          "lat": 41.004926,
+          "lon": 28.959001
+        },
+        {
+          "name": "Kalenderhane",
+          "population": 2053,
+          "lat": 41.013745,
+          "lon": 28.958178
+        },
+        {
+          "name": "Şehsuvar Bey",
+          "population": 1507,
+          "lat": 41.004619772511546,
+          "lon": 28.96698748056275
+        },
+        {
+          "name": "Küçük Ayasofya",
+          "population": 1418,
+          "lat": 41.00341255944852,
+          "lon": 28.972491182199775
+        },
+        {
+          "name": "Katip Kasım",
+          "population": 1318,
+          "lat": 41.00608250634593,
+          "lon": 28.9548801364472
+        },
+        {
+          "name": "Molla Hüsrev",
+          "population": 1291,
+          "lat": 41.015497,
+          "lon": 28.959437
+        },
+        {
+          "name": "Muhsine Hatun",
+          "population": 1290,
+          "lat": 41.00442897874808,
+          "lon": 28.9623243271445
+        },
+        {
+          "name": "Cankurtaran",
+          "population": 1003,
+          "lat": 41.00618326358065,
+          "lon": 28.980992186930138
+        },
+        {
+          "name": "Emin Sinan",
+          "population": 808,
+          "lat": 41.00680371207079,
+          "lon": 28.970345529411077
+        },
+        {
+          "name": "Saraç İshak",
+          "population": 798,
+          "lat": 41.00725229011482,
+          "lon": 28.963428555894467
+        },
+        {
+          "name": "Binbirdirek",
+          "population": 612,
+          "lat": 41.006477649939086,
+          "lon": 28.973261398688322
+        },
+        {
+          "name": "Süleymaniye",
+          "population": 598,
+          "lat": 41.01272486491695,
+          "lon": 28.961613589562717
+        },
+        {
+          "name": "Mimar Hayrettin",
+          "population": 472,
+          "lat": 41.007227231916374,
+          "lon": 28.966875115420237
+        },
+        {
+          "name": "Kemalpaşa",
+          "population": 448,
+          "lat": 41.011825,
+          "lon": 28.955772
+        },
+        {
+          "name": "Sultan Ahmet",
+          "population": 444,
+          "lat": 41.00405247839214,
+          "lon": 28.977137237422482
+        },
+        {
+          "name": "Hoca Gıyasettin",
+          "population": 420,
+          "lat": 41.018047,
+          "lon": 28.961716
+        },
+        {
+          "name": "Demirtaş",
+          "population": 305,
+          "lat": 41.018051,
+          "lon": 28.964782
+        },
+        {
+          "name": "Hocapaşa",
+          "population": 256,
+          "lat": 41.01387622844774,
+          "lon": 28.976666817002865
+        },
+        {
+          "name": "Alemdar",
+          "population": 246,
+          "lat": 41.009755,
+          "lon": 28.976299
+        },
+        {
+          "name": "Hacı Kadın",
+          "population": 217,
+          "lat": 41.018877,
+          "lon": 28.959513
+        },
+        {
+          "name": "Yavuz Sinan",
+          "population": 211,
+          "lat": 41.02026182346265,
+          "lon": 28.962355117230544
+        },
+        {
+          "name": "Mimar Kemalettin",
+          "population": 184,
+          "lat": 41.00835857715384,
+          "lon": 28.960031665148733
+        },
+        {
+          "name": "Balabanağa",
+          "population": 142,
+          "lat": 41.010768,
+          "lon": 28.959386
+        },
+        {
+          "name": "Mercan",
+          "population": 128,
+          "lat": 41.01348145629103,
+          "lon": 28.967443473891535
+        },
+        {
+          "name": "Mesihpaşa",
+          "population": 109,
+          "lat": 41.008342,
+          "lon": 28.955628
+        },
+        {
+          "name": "Molla Fenari",
+          "population": 92,
+          "lat": 41.009337114600555,
+          "lon": 28.970684430382818
+        },
+        {
+          "name": "Taya Hatun",
+          "population": 79,
+          "lat": 41.012211712798546,
+          "lon": 28.969402845742508
+        },
+        {
+          "name": "Hobyar",
+          "population": 72,
+          "lat": 41.014659,
+          "lon": 28.973312
+        },
+        {
+          "name": "Sururi",
+          "population": 46,
+          "lat": 41.013076,
+          "lon": 28.9717
+        },
+        {
+          "name": "Beyazıt",
+          "population": 45,
+          "lat": 41.00923510949863,
+          "lon": 28.96653764161087
+        },
+        {
+          "name": "Rüstempaşa",
+          "population": 19,
+          "lat": 41.017078,
+          "lon": 28.971042
+        },
+        {
+          "name": "Tahtakale",
+          "population": 13,
+          "lat": 41.016239,
+          "lon": 28.969001
+        },
+        {
+          "name": "Sarıdemir",
+          "population": 11,
+          "lat": 41.01816677319107,
+          "lon": 28.96744067779437
+        }
+      ]
+    },
+    {
+      "name": "Gaziosmanpaşa",
+      "population": 478395,
+      "lat": 41.05956598879706,
+      "lon": 28.910851891046264,
+      "neighborhoods": [
+        {
+          "name": "Karadeniz",
+          "population": 71482,
+          "lat": 41.08172697149158,
+          "lon": 28.88210472157573
+        },
+        {
+          "name": "Barbaros Hayrettin Paşa",
+          "population": 47603,
+          "lat": 41.07535437009889,
+          "lon": 28.890248830206815
+        },
+        {
+          "name": "Kazım Karabekir",
+          "population": 42091,
+          "lat": 41.080295,
+          "lon": 28.9107197
+        },
+        {
+          "name": "Karayolları",
+          "population": 38294,
+          "lat": 41.085553,
+          "lon": 28.899458
+        },
+        {
+          "name": "Yeni Mahalle",
+          "population": 35415,
+          "lat": 41.076315,
+          "lon": 28.902369
+        },
+        {
+          "name": "Merkez",
+          "population": 30237,
+          "lat": 41.05747764411839,
+          "lon": 28.911828819724832
+        },
+        {
+          "name": "Bağlarbaşı",
+          "population": 29058,
+          "lat": 41.063795275737675,
+          "lon": 28.91420784271554
+        },
+        {
+          "name": "Hürriyet",
+          "population": 27191,
+          "lat": 41.06753547756344,
+          "lon": 28.900355150136647
+        },
+        {
+          "name": "Sarıgöl",
+          "population": 25213,
+          "lat": 41.05946794505806,
+          "lon": 28.91808382119862
+        },
+        {
+          "name": "Şemsipaşa",
+          "population": 24993,
+          "lat": 41.067135591927524,
+          "lon": 28.9079366913451
+        },
+        {
+          "name": "Yıldıztabya",
+          "population": 23758,
+          "lat": 41.065255839324124,
+          "lon": 28.93062987989896
+        },
+        {
+          "name": "Fevzi Çakmak",
+          "population": 23032,
+          "lat": 41.072192783327495,
+          "lon": 28.904972770137306
+        },
+        {
+          "name": "Mevlana",
+          "population": 22139,
+          "lat": 41.0868613251329,
+          "lon": 28.913657551987853
+        },
+        {
+          "name": "Karlıtepe",
+          "population": 18845,
+          "lat": 41.05825172825945,
+          "lon": 28.92845414606225
+        },
+        {
+          "name": "Pazariçi",
+          "population": 11408,
+          "lat": 41.05888577197149,
+          "lon": 28.934538797942082
+        },
+        {
+          "name": "Yenidoğan",
+          "population": 7636,
+          "lat": 41.059262096686496,
+          "lon": 28.923407821441373
+        }
+      ]
+    },
+    {
+      "name": "Güngören",
+      "population": 251242,
+      "lat": 41.02569503466145,
+      "lon": 28.872226365926025,
+      "neighborhoods": [
+        {
+          "name": "Güneştepe",
+          "population": 45667,
+          "lat": 41.02549835619428,
+          "lon": 28.86503758192032
+        },
+        {
+          "name": "Gençosman",
+          "population": 39756,
+          "lat": 41.02906559456744,
+          "lon": 28.87763607959829
+        },
+        {
+          "name": "Merkez",
+          "population": 39468,
+          "lat": 41.0243935,
+          "lon": 28.8719813
+        },
+        {
+          "name": "Mareşal Çakmak",
+          "population": 26737,
+          "lat": 41.0182670632048,
+          "lon": 28.864455331356993
+        },
+        {
+          "name": "Abdurrahman Nafiz Gürman",
+          "population": 18585,
+          "lat": 41.005323,
+          "lon": 28.887962
+        },
+        {
+          "name": "Akıncılar",
+          "population": 17737,
+          "lat": 41.016442218962226,
+          "lon": 28.870725722039822
+        },
+        {
+          "name": "Haznedar",
+          "population": 16757,
+          "lat": 41.010214,
+          "lon": 28.870075
+        },
+        {
+          "name": "Tozkoparan",
+          "population": 14632,
+          "lat": 41.01425933562831,
+          "lon": 28.89682690516304
+        },
+        {
+          "name": "Güven",
+          "population": 13147,
+          "lat": 41.012223,
+          "lon": 28.874189
+        },
+        {
+          "name": "Sanayi",
+          "population": 11204,
+          "lat": 41.01939611023852,
+          "lon": 28.880796132602626
+        },
+        {
+          "name": "Mehmet Nesih Özmen",
+          "population": 7552,
+          "lat": 41.013761247508626,
+          "lon": 28.89009374679398
+        }
+      ]
+    },
+    {
+      "name": "Kadıköy",
+      "population": 458573,
+      "lat": 40.99229100033779,
+      "lon": 29.029161403017127,
+      "neighborhoods": [
+        {
+          "name": "Göztepe",
+          "population": 38335,
+          "lat": 40.9783967965993,
+          "lon": 29.066632277336026
+        },
+        {
+          "name": "Kozyatağı",
+          "population": 36361,
+          "lat": 40.96799055135068,
+          "lon": 29.092332261433313
+        },
+        {
+          "name": "Erenköy",
+          "population": 33740,
+          "lat": 40.972742,
+          "lon": 29.076015
+        },
+        {
+          "name": "Bostancı",
+          "population": 32478,
+          "lat": 40.957777,
+          "lon": 29.096355
+        },
+        {
+          "name": "19 Mayıs",
+          "population": 31515,
+          "lat": 40.97673243003578,
+          "lon": 29.089668188383996
+        },
+        {
+          "name": "Merdivenköy",
+          "population": 30728,
+          "lat": 40.98801936519257,
+          "lon": 29.06762638243154
+        },
+        {
+          "name": "Sahrayıcedit",
+          "population": 29451,
+          "lat": 40.98279040586749,
+          "lon": 29.082930228519842
+        },
+        {
+          "name": "Acıbadem",
+          "population": 28143,
+          "lat": 41.003692934165656,
+          "lon": 29.043205932226613
+        },
+        {
+          "name": "Suadiye",
+          "population": 25584,
+          "lat": 40.95990345428254,
+          "lon": 29.083099743910566
+        },
+        {
+          "name": "Feneryolu",
+          "population": 24750,
+          "lat": 40.98217,
+          "lon": 29.049383
+        },
+        {
+          "name": "Caferağa",
+          "population": 21261,
+          "lat": 40.98538319753496,
+          "lon": 29.024939033468513
+        },
+        {
+          "name": "Fenerbahçe",
+          "population": 20734,
+          "lat": 40.969903757436725,
+          "lon": 29.03863393558757
+        },
+        {
+          "name": "Caddebostan",
+          "population": 20234,
+          "lat": 40.96677006129261,
+          "lon": 29.063113610945948
+        },
+        {
+          "name": "Hasanpaşa",
+          "population": 16034,
+          "lat": 40.996393,
+          "lon": 29.043902
+        },
+        {
+          "name": "Eğitim",
+          "population": 13008,
+          "lat": 40.98936044786501,
+          "lon": 29.049119007835998
+        },
+        {
+          "name": "Fikirtepe",
+          "population": 12308,
+          "lat": 40.99324151714501,
+          "lon": 29.051148180353294
+        },
+        {
+          "name": "Rasimpaşa",
+          "population": 12082,
+          "lat": 40.9966693634301,
+          "lon": 29.026505462904368
+        },
+        {
+          "name": "Dumlupınar",
+          "population": 10158,
+          "lat": 40.992834,
+          "lon": 29.059909
+        },
+        {
+          "name": "Zühtüpaşa",
+          "population": 7570,
+          "lat": 40.98766208382824,
+          "lon": 29.039834353367638
+        },
+        {
+          "name": "Osmanağa",
+          "population": 7451,
+          "lat": 40.989059475148764,
+          "lon": 29.030435776758736
+        },
+        {
+          "name": "Koşuyolu",
+          "population": 6648,
+          "lat": 41.00676640845347,
+          "lon": 29.035259862911346
+        }
+      ]
+    },
+    {
+      "name": "Kartal",
+      "population": 475630,
+      "lat": 40.89470980225451,
+      "lon": 29.188063537150242,
+      "neighborhoods": [
+        {
+          "name": "Hürriyet",
+          "population": 50968,
+          "lat": 40.90293294062198,
+          "lon": 29.23169743813989
+        },
+        {
+          "name": "Uğur Mumcu",
+          "population": 39210,
+          "lat": 40.93341775101507,
+          "lon": 29.21339046075613
+        },
+        {
+          "name": "Karlıktepe",
+          "population": 33598,
+          "lat": 40.893284315229096,
+          "lon": 29.191305597511928
+        },
+        {
+          "name": "Esentepe",
+          "population": 32087,
+          "lat": 40.90652624533189,
+          "lon": 29.18672243151545
+        },
+        {
+          "name": "Atalar",
+          "population": 31567,
+          "lat": 40.90266097303001,
+          "lon": 29.173104233029505
+        },
+        {
+          "name": "Petrol İş",
+          "population": 28935,
+          "lat": 40.8965692,
+          "lon": 29.1797353
+        },
+        {
+          "name": "Soğanlık Yeni",
+          "population": 27806,
+          "lat": 40.9171854,
+          "lon": 29.1949082
+        },
+        {
+          "name": "Orhantepe",
+          "population": 27510,
+          "lat": 40.90648210620495,
+          "lon": 29.162014226519375
+        },
+        {
+          "name": "Gümüşpınar",
+          "population": 26581,
+          "lat": 40.91897202274885,
+          "lon": 29.20623543349336
+        },
+        {
+          "name": "Cevizli",
+          "population": 24093,
+          "lat": 40.91326099268491,
+          "lon": 29.16788540643617
+        },
+        {
+          "name": "Cumhuriyet",
+          "population": 23545,
+          "lat": 40.90730717648259,
+          "lon": 29.220872490087004
+        },
+        {
+          "name": "Yakacık Yeni",
+          "population": 19851,
+          "lat": 40.92254318591171,
+          "lon": 29.222631624011257
+        },
+        {
+          "name": "Yakacık Çarşı",
+          "population": 18637,
+          "lat": 40.9181666206118,
+          "lon": 29.226049860957744
+        },
+        {
+          "name": "Orta",
+          "population": 18220,
+          "lat": 40.9143127,
+          "lon": 29.2018983
+        },
+        {
+          "name": "Çavuşoğlu",
+          "population": 14946,
+          "lat": 40.891290603388796,
+          "lon": 29.197882789137452
+        },
+        {
+          "name": "Yunus",
+          "population": 13768,
+          "lat": 40.891723,
+          "lon": 29.211338
+        },
+        {
+          "name": "Kordonboyu",
+          "population": 12489,
+          "lat": 40.88867207701165,
+          "lon": 29.18934302329231
+        },
+        {
+          "name": "Topselvi",
+          "population": 12435,
+          "lat": 40.89491086672675,
+          "lon": 29.215321029175954
+        },
+        {
+          "name": "Yalı",
+          "population": 12051,
+          "lat": 40.8924267528522,
+          "lon": 29.220312403539936
+        },
+        {
+          "name": "Yukarı",
+          "population": 7333,
+          "lat": 40.8900986,
+          "lon": 29.1845341
+        }
+      ]
+    },
+    {
+      "name": "Kağıthane",
+      "population": 446420,
+      "lat": 41.082268872097046,
+      "lon": 28.972784109068073,
+      "neighborhoods": [
+        {
+          "name": "Hamidiye",
+          "population": 41128,
+          "lat": 41.09492913757367,
+          "lon": 28.97089216733366
+        },
+        {
+          "name": "Sultan Selim",
+          "population": 35245,
+          "lat": 41.09082038147656,
+          "lon": 28.998047122461656
+        },
+        {
+          "name": "Merkez",
+          "population": 34163,
+          "lat": 41.07989177179098,
+          "lon": 28.96873964491158
+        },
+        {
+          "name": "Talatpaşa",
+          "population": 33119,
+          "lat": 41.063443,
+          "lon": 28.963705
+        },
+        {
+          "name": "Çeliktepe",
+          "population": 31991,
+          "lat": 41.083962,
+          "lon": 28.999943
+        },
+        {
+          "name": "Çağlayan",
+          "population": 30787,
+          "lat": 41.07505818650603,
+          "lon": 28.97988984885717
+        },
+        {
+          "name": "Gürsel",
+          "population": 29476,
+          "lat": 41.070792,
+          "lon": 28.973118
+        },
+        {
+          "name": "Nurtepe",
+          "population": 26360,
+          "lat": 41.07520665447311,
+          "lon": 28.96157897628089
+        },
+        {
+          "name": "Seyrantepe",
+          "population": 24056,
+          "lat": 41.09593809686035,
+          "lon": 28.988338733671924
+        },
+        {
+          "name": "Ortabayır",
+          "population": 21968,
+          "lat": 41.07814955984131,
+          "lon": 29.003915296649296
+        },
+        {
+          "name": "Şirintepe",
+          "population": 21923,
+          "lat": 41.08902082372305,
+          "lon": 28.990772973335453
+        },
+        {
+          "name": "Harmantepe",
+          "population": 21234,
+          "lat": 41.08190581044954,
+          "lon": 28.991356015823868
+        },
+        {
+          "name": "Hürriyet",
+          "population": 20205,
+          "lat": 41.073781,
+          "lon": 28.985727
+        },
+        {
+          "name": "Yahya Kemal",
+          "population": 16801,
+          "lat": 41.085351,
+          "lon": 28.988018
+        },
+        {
+          "name": "Gültepe",
+          "population": 13941,
+          "lat": 41.080754780031555,
+          "lon": 28.99477097896201
+        },
+        {
+          "name": "Mehmet Akif Ersoy",
+          "population": 12274,
+          "lat": 41.059409,
+          "lon": 28.955711
+        },
+        {
+          "name": "Yeşilce",
+          "population": 11965,
+          "lat": 41.096457,
+          "lon": 29.000658
+        },
+        {
+          "name": "Telsizler",
+          "population": 11304,
+          "lat": 41.077939,
+          "lon": 28.998178
+        },
+        {
+          "name": "Emniyet Evleri",
+          "population": 8480,
+          "lat": 41.0858121,
+          "lon": 29.0046775
+        }
+      ]
+    },
+    {
+      "name": "Küçükçekmece",
+      "population": 785270,
+      "lat": 40.99114686911108,
+      "lon": 28.773628029994967,
+      "neighborhoods": [
+        {
+          "name": "Atakent",
+          "population": 107266,
+          "lat": 41.05421422757081,
+          "lon": 28.782076977276688
+        },
+        {
+          "name": "Halkalı Merkez",
+          "population": 81277,
+          "lat": 41.034873,
+          "lon": 28.792598
+        },
+        {
+          "name": "İnönü",
+          "population": 69800,
+          "lat": 41.02294835187166,
+          "lon": 28.797048317467073
+        },
+        {
+          "name": "Kanarya",
+          "population": 68195,
+          "lat": 41.008061839252576,
+          "lon": 28.77718520419822
+        },
+        {
+          "name": "Cumhuriyet",
+          "population": 52310,
+          "lat": 40.99742756146935,
+          "lon": 28.771775036233976
+        },
+        {
+          "name": "Mehmet Akif",
+          "population": 51978,
+          "lat": 41.05431918517587,
+          "lon": 28.80573840129037
+        },
+        {
+          "name": "İstasyon",
+          "population": 43551,
+          "lat": 41.02891089014685,
+          "lon": 28.772513311004275
+        },
+        {
+          "name": "Atatürk",
+          "population": 41483,
+          "lat": 41.051695194827715,
+          "lon": 28.79717853319147
+        },
+        {
+          "name": "Tevfikbey",
+          "population": 34864,
+          "lat": 41.00849101969365,
+          "lon": 28.799521970310423
+        },
+        {
+          "name": "Söğütlü Çeşme",
+          "population": 32646,
+          "lat": 41.020611231581654,
+          "lon": 28.78657097973496
+        },
+        {
+          "name": "Yeşilova",
+          "population": 32076,
+          "lat": 40.98964112053497,
+          "lon": 28.786296798302317
+        },
+        {
+          "name": "Gültepe",
+          "population": 28757,
+          "lat": 40.99414511236478,
+          "lon": 28.791145732609237
+        },
+        {
+          "name": "Cennet",
+          "population": 26920,
+          "lat": 40.98976293272716,
+          "lon": 28.777611591182847
+        },
+        {
+          "name": "Fevzi Çakmak",
+          "population": 26584,
+          "lat": 41.00498960245531,
+          "lon": 28.78957265559299
+        },
+        {
+          "name": "Yeni Mahalle",
+          "population": 19789,
+          "lat": 40.99319923431656,
+          "lon": 28.774454344541766
+        },
+        {
+          "name": "Sultan Murat",
+          "population": 15551,
+          "lat": 41.00154957761126,
+          "lon": 28.785118740484762
+        },
+        {
+          "name": "Kartaltepe",
+          "population": 14748,
+          "lat": 41.00247774325072,
+          "lon": 28.799869932427924
+        },
+        {
+          "name": "Kemalpaşa",
+          "population": 14002,
+          "lat": 41.00056073068109,
+          "lon": 28.795137648985417
+        },
+        {
+          "name": "Fatih",
+          "population": 10834,
+          "lat": 40.992749971499194,
+          "lon": 28.77035799995562
+        },
+        {
+          "name": "Yarımburgaz",
+          "population": 8774,
+          "lat": 41.04759569599361,
+          "lon": 28.753921248577512
+        },
+        {
+          "name": "Beşyol",
+          "population": 3865,
+          "lat": 40.99292866597713,
+          "lon": 28.79600104979596
+        }
+      ]
+    },
+    {
+      "name": "Maltepe",
+      "population": 525044,
+      "lat": 40.92545577643975,
+      "lon": 29.131953823523787,
+      "neighborhoods": [
+        {
+          "name": "Zümrütevler",
+          "population": 88023,
+          "lat": 40.937542558970875,
+          "lon": 29.147771656899238
+        },
+        {
+          "name": "Fındıklı",
+          "population": 63722,
+          "lat": 40.970489397511216,
+          "lon": 29.13047656339046
+        },
+        {
+          "name": "Bağlarbaşı",
+          "population": 41204,
+          "lat": 40.92628829887997,
+          "lon": 29.140008008148186
+        },
+        {
+          "name": "Cevizli",
+          "population": 41005,
+          "lat": 40.916640632955705,
+          "lon": 29.146925022522026
+        },
+        {
+          "name": "Altayçeşme",
+          "population": 32318,
+          "lat": 40.934371,
+          "lon": 29.131825
+        },
+        {
+          "name": "Altıntepe",
+          "population": 30716,
+          "lat": 40.95221205578929,
+          "lon": 29.101726908214488
+        },
+        {
+          "name": "Başıbüyük",
+          "population": 25659,
+          "lat": 40.95872836082307,
+          "lon": 29.148879364125634
+        },
+        {
+          "name": "Küçükyalı Merkez",
+          "population": 25245,
+          "lat": 40.94749,
+          "lon": 29.106671
+        },
+        {
+          "name": "İdealtepe",
+          "population": 24420,
+          "lat": 40.938643,
+          "lon": 29.118446
+        },
+        {
+          "name": "Aydınevler",
+          "population": 21185,
+          "lat": 40.94912773321869,
+          "lon": 29.128197018111848
+        },
+        {
+          "name": "Çınar",
+          "population": 20616,
+          "lat": 40.943825,
+          "lon": 29.113644
+        },
+        {
+          "name": "Feyzullah",
+          "population": 19597,
+          "lat": 40.92514671382543,
+          "lon": 29.12848004863875
+        },
+        {
+          "name": "Girne",
+          "population": 19579,
+          "lat": 40.9414937990158,
+          "lon": 29.139456268495962
+        },
+        {
+          "name": "Esenkent",
+          "population": 17949,
+          "lat": 40.929177,
+          "lon": 29.167492
+        },
+        {
+          "name": "Gülsuyu",
+          "population": 14593,
+          "lat": 40.92837859316546,
+          "lon": 29.156580044451147
+        },
+        {
+          "name": "Gülensu",
+          "population": 13625,
+          "lat": 40.937441539657556,
+          "lon": 29.160192621718608
+        },
+        {
+          "name": "Büyükbakkalköy",
+          "population": 13311,
+          "lat": 40.97053389476511,
+          "lon": 29.199321391735452
+        },
+        {
+          "name": "Yalı",
+          "population": 12277,
+          "lat": 40.91921117695091,
+          "lon": 29.13313697036105
+        }
+      ]
+    },
+    {
+      "name": "Pendik",
+      "population": 752033,
+      "lat": 40.88270984326681,
+      "lon": 29.234360748862002,
+      "neighborhoods": [
+        {
+          "name": "Kavakpınar",
+          "population": 65885,
+          "lat": 40.880864812277025,
+          "lon": 29.286977355295733
+        },
+        {
+          "name": "Yenişehir",
+          "population": 65458,
+          "lat": 40.931431219589825,
+          "lon": 29.304792339751856
+        },
+        {
+          "name": "Kaynarca",
+          "population": 46198,
+          "lat": 40.875009260585955,
+          "lon": 29.25578104115712
+        },
+        {
+          "name": "Velibaba",
+          "population": 42505,
+          "lat": 40.90514709611881,
+          "lon": 29.2546334671365
+        },
+        {
+          "name": "Kurtköy",
+          "population": 39477,
+          "lat": 40.914612419296105,
+          "lon": 29.29996685669724
+        },
+        {
+          "name": "Fevzi Çakmak",
+          "population": 38271,
+          "lat": 40.87811379637213,
+          "lon": 29.26423680940667
+        },
+        {
+          "name": "Esenler",
+          "population": 33574,
+          "lat": 40.88494871543858,
+          "lon": 29.27230130934751
+        },
+        {
+          "name": "Güzelyalı",
+          "population": 33231,
+          "lat": 40.860800852723884,
+          "lon": 29.281387435603733
+        },
+        {
+          "name": "Çamçeşme",
+          "population": 32389,
+          "lat": 40.872195324649056,
+          "lon": 29.270561710826314
+        },
+        {
+          "name": "Ahmet Yesevi",
+          "population": 31296,
+          "lat": 40.86821686559938,
+          "lon": 29.308808260936985
+        },
+        {
+          "name": "Orhangazi",
+          "population": 27865,
+          "lat": 40.86645891933483,
+          "lon": 29.289655686255003
+        },
+        {
+          "name": "Dumlupınar",
+          "population": 26965,
+          "lat": 40.89170274694365,
+          "lon": 29.250011941960963
+        },
+        {
+          "name": "Sülüntepe",
+          "population": 25750,
+          "lat": 40.91385356607316,
+          "lon": 29.277560406299756
+        },
+        {
+          "name": "Çınardere",
+          "population": 21816,
+          "lat": 40.8953448452809,
+          "lon": 29.24020020306665
+        },
+        {
+          "name": "Çamlık",
+          "population": 21548,
+          "lat": 40.92851380556806,
+          "lon": 29.283648553446028
+        },
+        {
+          "name": "Fatih",
+          "population": 21096,
+          "lat": 40.867734,
+          "lon": 29.299179
+        },
+        {
+          "name": "Şeyhli",
+          "population": 19728,
+          "lat": 40.90740330833111,
+          "lon": 29.284347567471855
+        },
+        {
+          "name": "Güllü Bağlar",
+          "population": 19301,
+          "lat": 40.89742488224178,
+          "lon": 29.27391629709382
+        },
+        {
+          "name": "Yeni",
+          "population": 16122,
+          "lat": 40.8832021,
+          "lon": 29.2309095
+        },
+        {
+          "name": "Doğu",
+          "population": 14941,
+          "lat": 40.878234949647776,
+          "lon": 29.237527974111174
+        },
+        {
+          "name": "Esenyalı",
+          "population": 13957,
+          "lat": 40.862121411078846,
+          "lon": 29.29521459638576
+        },
+        {
+          "name": "Batı",
+          "population": 13891,
+          "lat": 40.87682004268072,
+          "lon": 29.230600945774626
+        },
+        {
+          "name": "Yayalar",
+          "population": 13500,
+          "lat": 40.902759211537955,
+          "lon": 29.267152672516147
+        },
+        {
+          "name": "Bahçelievler",
+          "population": 12627,
+          "lat": 40.88447605160337,
+          "lon": 29.235563354983015
+        },
+        {
+          "name": "Ertuğrul Gazi",
+          "population": 12271,
+          "lat": 40.91913700067258,
+          "lon": 29.263762668102743
+        },
+        {
+          "name": "Sapan Bağları",
+          "population": 12225,
+          "lat": 40.8855757,
+          "lon": 29.2216182
+        },
+        {
+          "name": "Harmandere",
+          "population": 10294,
+          "lat": 40.928724420628924,
+          "lon": 29.32372031135651
+        },
+        {
+          "name": "Yeşilbağlar",
+          "population": 7093,
+          "lat": 40.8932924830483,
+          "lon": 29.226229859194888
+        },
+        {
+          "name": "Orta",
+          "population": 3224,
+          "lat": 40.8903637,
+          "lon": 29.2419118
+        },
+        {
+          "name": "Sanayi",
+          "population": 2997,
+          "lat": 40.905858396574985,
+          "lon": 29.299233064585366
+        },
+        {
+          "name": "Ramazanoğlu",
+          "population": 2429,
+          "lat": 40.89659288565116,
+          "lon": 29.28591903948555
+        },
+        {
+          "name": "Göçbeyli",
+          "population": 1466,
+          "lat": 40.96890655909948,
+          "lon": 29.458763178849665
+        },
+        {
+          "name": "Kurna",
+          "population": 1181,
+          "lat": 40.95562138224304,
+          "lon": 29.334886337296524
+        },
+        {
+          "name": "Kurtdoğmuş",
+          "population": 604,
+          "lat": 41.011829472806824,
+          "lon": 29.360269889344124
+        },
+        {
+          "name": "Ballıca",
+          "population": 591,
+          "lat": 40.99074035466191,
+          "lon": 29.40120497960828
+        },
+        {
+          "name": "Emirli",
+          "population": 267,
+          "lat": 40.990187711471094,
+          "lon": 29.338167628267854
+        }
+      ]
+    },
+    {
+      "name": "Sancaktepe",
+      "population": 507500,
+      "lat": 40.989135288055365,
+      "lon": 29.229402506723318,
+      "neighborhoods": [
+        {
+          "name": "Osmangazi",
+          "population": 54014,
+          "lat": 40.9863777280753,
+          "lon": 29.23650517108129
+        },
+        {
+          "name": "Abdurrahmangazi",
+          "population": 49460,
+          "lat": 40.992332778717184,
+          "lon": 29.23269118623614
+        },
+        {
+          "name": "Fatih",
+          "population": 38699,
+          "lat": 40.95795186590394,
+          "lon": 29.214985975492993
+        },
+        {
+          "name": "Atatürk",
+          "population": 31919,
+          "lat": 41.01090967182719,
+          "lon": 29.223404185922135
+        },
+        {
+          "name": "Yunus Emre",
+          "population": 29360,
+          "lat": 41.018192397142656,
+          "lon": 29.249503892053013
+        },
+        {
+          "name": "Meclis",
+          "population": 27568,
+          "lat": 41.01062725162399,
+          "lon": 29.204762732108463
+        },
+        {
+          "name": "Emek",
+          "population": 27320,
+          "lat": 41.00468697816251,
+          "lon": 29.193336113166424
+        },
+        {
+          "name": "Veysel Karani",
+          "population": 26847,
+          "lat": 40.963634694631565,
+          "lon": 29.242441319317948
+        },
+        {
+          "name": "Akpınar",
+          "population": 25286,
+          "lat": 40.967458982760235,
+          "lon": 29.23039109979692
+        },
+        {
+          "name": "Yenidoğan",
+          "population": 25082,
+          "lat": 41.01347032478412,
+          "lon": 29.241722838796164
+        },
+        {
+          "name": "Safa",
+          "population": 25062,
+          "lat": 41.008865278051985,
+          "lon": 29.24636593463515
+        },
+        {
+          "name": "İnönü",
+          "population": 24157,
+          "lat": 41.01158345115891,
+          "lon": 29.21250286769893
+        },
+        {
+          "name": "Eyüp Sultan",
+          "population": 24066,
+          "lat": 40.98387623043067,
+          "lon": 29.22601914865632
+        },
+        {
+          "name": "Sarıgazi",
+          "population": 23865,
+          "lat": 41.00679426400998,
+          "lon": 29.210931379746086
+        },
+        {
+          "name": "Mevlana",
+          "population": 22651,
+          "lat": 41.012427506556605,
+          "lon": 29.25928582959915
+        },
+        {
+          "name": "Kemal Türkler",
+          "population": 22647,
+          "lat": 41.006638197341346,
+          "lon": 29.21833522926704
+        },
+        {
+          "name": "Merve",
+          "population": 21451,
+          "lat": 41.00618118558586,
+          "lon": 29.24114725503611
+        },
+        {
+          "name": "Hilal",
+          "population": 6277,
+          "lat": 41.02264673978152,
+          "lon": 29.25176126225594
+        },
+        {
+          "name": "Paşaköy",
+          "population": 1769,
+          "lat": 41.017657184505964,
+          "lon": 29.27819339916931
+        }
+      ]
+    },
+    {
+      "name": "Sarıyer",
+      "population": 344883,
+      "lat": 41.16949264138495,
+      "lon": 29.055684183187196,
+      "neighborhoods": [
+        {
+          "name": "Ayazağa",
+          "population": 34528,
+          "lat": 41.11565603694234,
+          "lon": 28.998292306423792
+        },
+        {
+          "name": "Zekeriyaköy",
+          "population": 24291,
+          "lat": 41.197099278427515,
+          "lon": 29.030326534184297
+        },
+        {
+          "name": "Tarabya",
+          "population": 17546,
+          "lat": 41.13816908389512,
+          "lon": 29.051457222459845
+        },
+        {
+          "name": "Reşitpaşa",
+          "population": 16743,
+          "lat": 41.1067767025792,
+          "lon": 29.04056977475085
+        },
+        {
+          "name": "Fatih Sultan Mehmet",
+          "population": 15653,
+          "lat": 41.095917,
+          "lon": 29.035052
+        },
+        {
+          "name": "İstinye",
+          "population": 15405,
+          "lat": 41.11546061950614,
+          "lon": 29.0553691152424
+        },
+        {
+          "name": "Ferahevler",
+          "population": 15013,
+          "lat": 41.129779,
+          "lon": 29.043637
+        },
+        {
+          "name": "Yeniköy",
+          "population": 14587,
+          "lat": 41.1234251017969,
+          "lon": 29.068574267013645
+        },
+        {
+          "name": "Maslak",
+          "population": 14281,
+          "lat": 41.11016052716147,
+          "lon": 29.020627633395236
+        },
+        {
+          "name": "Maden",
+          "population": 14064,
+          "lat": 41.18184503846578,
+          "lon": 29.03845419379104
+        },
+        {
+          "name": "Sarıyer Merkez",
+          "population": 11362,
+          "lat": 41.17233778116608,
+          "lon": 29.052439984227618
+        },
+        {
+          "name": "Pınar",
+          "population": 10922,
+          "lat": 41.113887709855504,
+          "lon": 29.03205968348871
+        },
+        {
+          "name": "Cumhuriyet",
+          "population": 10677,
+          "lat": 41.14707100640794,
+          "lon": 29.03411835302603
+        },
+        {
+          "name": "Uskumruköy",
+          "population": 10520,
+          "lat": 41.220046804118084,
+          "lon": 29.022498591472953
+        },
+        {
+          "name": "Rumelihisarı",
+          "population": 9176,
+          "lat": 41.088594,
+          "lon": 29.0551627
+        },
+        {
+          "name": "Darüşşafaka",
+          "population": 8877,
+          "lat": 41.126508724003884,
+          "lon": 29.029435986938353
+        },
+        {
+          "name": "Huzur",
+          "population": 8568,
+          "lat": 41.10501712478563,
+          "lon": 28.998047873391812
+        },
+        {
+          "name": "Büyükdere",
+          "population": 8192,
+          "lat": 41.16054567082347,
+          "lon": 29.04289271289477
+        },
+        {
+          "name": "Emirgan",
+          "population": 7924,
+          "lat": 41.103203432375864,
+          "lon": 29.053467202284537
+        },
+        {
+          "name": "Kazım Karabekir Paşa",
+          "population": 7709,
+          "lat": 41.16295544728857,
+          "lon": 29.028424826337158
+        },
+        {
+          "name": "Kireçburnu",
+          "population": 6676,
+          "lat": 41.14633183812617,
+          "lon": 29.046708383172955
+        },
+        {
+          "name": "Poligon",
+          "population": 6220,
+          "lat": 41.11678799277723,
+          "lon": 29.041458845673304
+        },
+        {
+          "name": "Çamlıtepe",
+          "population": 5645,
+          "lat": 41.1300975431011,
+          "lon": 29.027033708698752
+        },
+        {
+          "name": "Ptt Evleri",
+          "population": 5133,
+          "lat": 41.15709777819785,
+          "lon": 29.022368177265236
+        },
+        {
+          "name": "Bahçeköy Yeni",
+          "population": 5041,
+          "lat": 41.17913350724115,
+          "lon": 28.994256342215124
+        },
+        {
+          "name": "Baltalimanı",
+          "population": 4978,
+          "lat": 41.09538017877361,
+          "lon": 29.050629928048835
+        },
+        {
+          "name": "Rumelifeneri",
+          "population": 4679,
+          "lat": 41.2334035,
+          "lon": 29.1109327
+        },
+        {
+          "name": "Çayırbaşı",
+          "population": 4613,
+          "lat": 41.159432,
+          "lon": 29.032883
+        },
+        {
+          "name": "Kocataş",
+          "population": 4417,
+          "lat": 41.168877613612864,
+          "lon": 29.034524189268467
+        },
+        {
+          "name": "Kumköy (kilyos)",
+          "population": 3949,
+          "lat": 41.2457696,
+          "lon": 29.0364997
+        },
+        {
+          "name": "Rumelikavağı",
+          "population": 3562,
+          "lat": 41.1824719,
+          "lon": 29.0734128
+        },
+        {
+          "name": "Bahçeköy Merkez",
+          "population": 3558,
+          "lat": 41.18019774459668,
+          "lon": 28.991043261142693
+        },
+        {
+          "name": "Yeni",
+          "population": 3122,
+          "lat": 41.17255175462782,
+          "lon": 29.061493608930135
+        },
+        {
+          "name": "Gümüşdere",
+          "population": 2423,
+          "lat": 41.236537696955025,
+          "lon": 28.98481861228487
+        },
+        {
+          "name": "Bahçeköy Kemer",
+          "population": 2258,
+          "lat": 41.16891746610449,
+          "lon": 28.98988453122513
+        },
+        {
+          "name": "Demirciköy",
+          "population": 1732,
+          "lat": 41.23438874376936,
+          "lon": 29.056346458980613
+        },
+        {
+          "name": "Kısırkaya",
+          "population": 439,
+          "lat": 41.2513521005572,
+          "lon": 28.977760090581313
+        },
+        {
+          "name": "Garipçe",
+          "population": 400,
+          "lat": 41.214690759269104,
+          "lon": 29.10826825604161
+        }
+      ]
+    },
+    {
+      "name": "Silivri",
+      "population": 240029,
+      "lat": 41.0750575429968,
+      "lon": 28.248547853223187,
+      "neighborhoods": [
+        {
+          "name": "Yeni",
+          "population": 48526,
+          "lat": 41.080557563145106,
+          "lon": 28.25881571038903
+        },
+        {
+          "name": "Semizkumlar",
+          "population": 37159,
+          "lat": 41.075257548039474,
+          "lon": 28.173572694782962
+        },
+        {
+          "name": "Mimar Sinan",
+          "population": 30443,
+          "lat": 41.08471367902692,
+          "lon": 28.241337720233417
+        },
+        {
+          "name": "Selimpaşa",
+          "population": 25813,
+          "lat": 41.05558411473484,
+          "lon": 28.36658460301109
+        },
+        {
+          "name": "Alibey",
+          "population": 16914,
+          "lat": 41.073911871588905,
+          "lon": 28.250898049042718
+        },
+        {
+          "name": "Gümüşyaka",
+          "population": 9930,
+          "lat": 41.0454443,
+          "lon": 28.0437139
+        },
+        {
+          "name": "Cumhuriyet",
+          "population": 9598,
+          "lat": 41.06936164245266,
+          "lon": 28.26234326937771
+        },
+        {
+          "name": "Piri Mehmet Paşa",
+          "population": 7741,
+          "lat": 41.076216654835775,
+          "lon": 28.242375590850145
+        },
+        {
+          "name": "Fatih",
+          "population": 6667,
+          "lat": 41.07043731376285,
+          "lon": 28.247758267941805
+        },
+        {
+          "name": "Çanta Sancaktepe",
+          "population": 6448,
+          "lat": 41.0774457,
+          "lon": 28.0851547
+        },
+        {
+          "name": "Çanta Balaban",
+          "population": 4885,
+          "lat": 41.0798383,
+          "lon": 28.0813497
+        },
+        {
+          "name": "Ortaköy",
+          "population": 4773,
+          "lat": 41.10140748735435,
+          "lon": 28.375065464207722
+        },
+        {
+          "name": "Değirmenköy Fevzipaşa",
+          "population": 3706,
+          "lat": 41.0956929,
+          "lon": 28.0081194
+        },
+        {
+          "name": "Değirmenköy İsmetpaşa",
+          "population": 3453,
+          "lat": 41.1022968,
+          "lon": 28.0114577
+        },
+        {
+          "name": "Büyük Çavuşlu",
+          "population": 3268,
+          "lat": 41.23843,
+          "lon": 28.060543
+        },
+        {
+          "name": "Kavaklı İstiklal",
+          "population": 2115,
+          "lat": 41.0915149,
+          "lon": 28.3287304
+        },
+        {
+          "name": "Kavaklı Hürriyet",
+          "population": 1743,
+          "lat": 41.092394,
+          "lon": 28.3356266
+        },
+        {
+          "name": "Fener",
+          "population": 1467,
+          "lat": 41.15022760028998,
+          "lon": 28.23641287716356
+        },
+        {
+          "name": "Çayırdere",
+          "population": 1418,
+          "lat": 41.28216274524564,
+          "lon": 28.144574195484125
+        },
+        {
+          "name": "Kadıköy",
+          "population": 1405,
+          "lat": 41.13661584878747,
+          "lon": 28.364545375080297
+        },
+        {
+          "name": "Akören",
+          "population": 1395,
+          "lat": 41.19613578818547,
+          "lon": 28.336033851536882
+        },
+        {
+          "name": "Beyciler",
+          "population": 1380,
+          "lat": 41.235172606789064,
+          "lon": 28.116690224747686
+        },
+        {
+          "name": "Büyük Kılıçlı",
+          "population": 1273,
+          "lat": 41.163228,
+          "lon": 28.190187
+        },
+        {
+          "name": "Gazitepe",
+          "population": 1212,
+          "lat": 41.12881474343223,
+          "lon": 28.32300787012997
+        },
+        {
+          "name": "Danamandıra",
+          "population": 1128,
+          "lat": 41.30816853299336,
+          "lon": 28.243333737912877
+        },
+        {
+          "name": "Alipaşa",
+          "population": 1085,
+          "lat": 41.11092396162161,
+          "lon": 28.221327086806866
+        },
+        {
+          "name": "Çeltik",
+          "population": 1080,
+          "lat": 41.10984805852968,
+          "lon": 28.118472361404542
+        },
+        {
+          "name": "Seymen",
+          "population": 1049,
+          "lat": 41.15625328974008,
+          "lon": 28.170189816399784
+        },
+        {
+          "name": "Sayalar",
+          "population": 919,
+          "lat": 41.315682035929285,
+          "lon": 28.17474190137054
+        },
+        {
+          "name": "Kurfallı",
+          "population": 552,
+          "lat": 41.20078072415009,
+          "lon": 28.261456760533918
+        },
+        {
+          "name": "Büyük Sinekli",
+          "population": 418,
+          "lat": 41.2246766,
+          "lon": 28.2107625
+        },
+        {
+          "name": "Yolçatı",
+          "population": 382,
+          "lat": 41.132032963013614,
+          "lon": 28.127478728062243
+        },
+        {
+          "name": "Küçük Kılıçlı",
+          "population": 312,
+          "lat": 41.1319035,
+          "lon": 28.2052914
+        },
+        {
+          "name": "Bekirli",
+          "population": 237,
+          "lat": 41.226482080016154,
+          "lon": 28.299235396715147
+        },
+        {
+          "name": "Küçük Sinekli",
+          "population": 135,
+          "lat": 41.2291727,
+          "lon": 28.1915768
+        }
+      ]
+    },
+    {
+      "name": "Sultanbeyli",
+      "population": 378908,
+      "lat": 40.96816205970828,
+      "lon": 29.264784630843792,
+      "neighborhoods": [
+        {
+          "name": "Battalgazi",
+          "population": 41182,
+          "lat": 40.97925854003847,
+          "lon": 29.2721900249214
+        },
+        {
+          "name": "Adil",
+          "population": 37789,
+          "lat": 40.97749517308782,
+          "lon": 29.26331766797236
+        },
+        {
+          "name": "Ahmet Yesevi",
+          "population": 29924,
+          "lat": 40.97115259766417,
+          "lon": 29.273448984482627
+        },
+        {
+          "name": "Mehmet Akif",
+          "population": 29092,
+          "lat": 40.96797487075824,
+          "lon": 29.268098391512154
+        },
+        {
+          "name": "Mimar Sinan",
+          "population": 28524,
+          "lat": 40.99529768245759,
+          "lon": 29.264855108691478
+        },
+        {
+          "name": "Abdurrahmangazi",
+          "population": 27559,
+          "lat": 40.96808083448022,
+          "lon": 29.260193718122224
+        },
+        {
+          "name": "Hamidiye",
+          "population": 26424,
+          "lat": 40.95355917194482,
+          "lon": 29.285567695176127
+        },
+        {
+          "name": "Necip Fazıl",
+          "population": 24476,
+          "lat": 40.94046203228689,
+          "lon": 29.2755177582782
+        },
+        {
+          "name": "Mecidiye",
+          "population": 21900,
+          "lat": 40.95723564832497,
+          "lon": 29.297266004323006
+        },
+        {
+          "name": "Fatih",
+          "population": 21081,
+          "lat": 40.95830478924998,
+          "lon": 29.274390966691527
+        },
+        {
+          "name": "Yavuz Selim",
+          "population": 20717,
+          "lat": 40.949244678354546,
+          "lon": 29.278240728725763
+        },
+        {
+          "name": "Turgut Reis",
+          "population": 19889,
+          "lat": 40.964700516259256,
+          "lon": 29.278042031329335
+        },
+        {
+          "name": "Orhangazi",
+          "population": 18477,
+          "lat": 40.93959098386355,
+          "lon": 29.288359120224698
+        },
+        {
+          "name": "Hasanpaşa",
+          "population": 17528,
+          "lat": 40.96820008897285,
+          "lon": 29.25031716837546
+        },
+        {
+          "name": "Akşemsettin",
+          "population": 14346,
+          "lat": 40.94659863879619,
+          "lon": 29.299366001894356
+        }
+      ]
+    },
+    {
+      "name": "Sultangazi",
+      "population": 529306,
+      "lat": 41.104900750488326,
+      "lon": 28.866035870921564,
+      "neighborhoods": [
+        {
+          "name": "50. Yıl",
+          "population": 68529,
+          "lat": 41.089932302585765,
+          "lon": 28.87067541902678
+        },
+        {
+          "name": "Esentepe",
+          "population": 62645,
+          "lat": 41.09953228430149,
+          "lon": 28.87895681863057
+        },
+        {
+          "name": "Cebeci",
+          "population": 59603,
+          "lat": 41.10968679534528,
+          "lon": 28.869328122905216
+        },
+        {
+          "name": "İsmetpaşa",
+          "population": 53388,
+          "lat": 41.11110191748088,
+          "lon": 28.85548097722932
+        },
+        {
+          "name": "Yunus Emre",
+          "population": 51770,
+          "lat": 41.0972482540636,
+          "lon": 28.891838781313254
+        },
+        {
+          "name": "Uğur Mumcu",
+          "population": 41107,
+          "lat": 41.0968482,
+          "lon": 28.8651722
+        },
+        {
+          "name": "Sultançiftliği",
+          "population": 37094,
+          "lat": 41.10006584526758,
+          "lon": 28.860668740042428
+        },
+        {
+          "name": "Gazi",
+          "population": 35135,
+          "lat": 41.103838949207415,
+          "lon": 28.897927663084573
+        },
+        {
+          "name": "75. Yıl",
+          "population": 31720,
+          "lat": 41.098005226280435,
+          "lon": 28.902138964237565
+        },
+        {
+          "name": "Zübeyde Hanım",
+          "population": 30922,
+          "lat": 41.10090260076453,
+          "lon": 28.90809513673949
+        },
+        {
+          "name": "Eski Habipler",
+          "population": 14336,
+          "lat": 41.132493012248005,
+          "lon": 28.83103914975132
+        },
+        {
+          "name": "Cumhuriyet",
+          "population": 13942,
+          "lat": 41.0880173914866,
+          "lon": 28.876444068582913
+        },
+        {
+          "name": "Malkoçoğlu",
+          "population": 13007,
+          "lat": 41.11683129809009,
+          "lon": 28.848537584742104
+        },
+        {
+          "name": "Habibler",
+          "population": 8163,
+          "lat": 41.1331314,
+          "lon": 28.8390266
+        },
+        {
+          "name": "Yayla",
+          "population": 7945,
+          "lat": 41.14776665774872,
+          "lon": 28.855974929499524
+        }
+      ]
+    },
+    {
+      "name": "Tuzla",
+      "population": 313778,
+      "lat": 40.81943365987905,
+      "lon": 29.301812349338974,
+      "neighborhoods": [
+        {
+          "name": "Aydınlı",
+          "population": 77407,
+          "lat": 40.86772343273455,
+          "lon": 29.328483111401965
+        },
+        {
+          "name": "Şifa",
+          "population": 32299,
+          "lat": 40.82870415658604,
+          "lon": 29.35627297323117
+        },
+        {
+          "name": "Yayla",
+          "population": 32127,
+          "lat": 40.830758206236595,
+          "lon": 29.311056645730815
+        },
+        {
+          "name": "Mimar Sinan",
+          "population": 29105,
+          "lat": 40.83667643067909,
+          "lon": 29.363200394116262
+        },
+        {
+          "name": "Aydıntepe",
+          "population": 27506,
+          "lat": 40.85345055588772,
+          "lon": 29.297193360659662
+        },
+        {
+          "name": "İstasyon",
+          "population": 26825,
+          "lat": 40.82777672632986,
+          "lon": 29.32242312609361
+        },
+        {
+          "name": "Postane",
+          "population": 22776,
+          "lat": 40.81737735531894,
+          "lon": 29.296424332034775
+        },
+        {
+          "name": "Evliya Çelebi",
+          "population": 14855,
+          "lat": 40.84258868466347,
+          "lon": 29.298096398422047
+        },
+        {
+          "name": "Orta",
+          "population": 12054,
+          "lat": 40.90213604761479,
+          "lon": 29.378461642271873
+        },
+        {
+          "name": "İçmeler",
+          "population": 11908,
+          "lat": 40.84865756555993,
+          "lon": 29.305033574650224
+        },
+        {
+          "name": "Tepeören",
+          "population": 8028,
+          "lat": 40.90998303586085,
+          "lon": 29.389631524862097
+        },
+        {
+          "name": "Cami",
+          "population": 6070,
+          "lat": 40.81624997012702,
+          "lon": 29.30637444493189
+        },
+        {
+          "name": "Mescit",
+          "population": 5760,
+          "lat": 40.89627158384832,
+          "lon": 29.354215899620044
+        },
+        {
+          "name": "Akfırat",
+          "population": 3002,
+          "lat": 40.92507729833409,
+          "lon": 29.41794836987617
+        },
+        {
+          "name": "Orhanlı",
+          "population": 2023,
+          "lat": 40.89465876516172,
+          "lon": 29.357836597188964
+        },
+        {
+          "name": "Fatih",
+          "population": 1201,
+          "lat": 40.929402133593385,
+          "lon": 29.3435969413909
+        },
+        {
+          "name": "Anadolu",
+          "population": 832,
+          "lat": 40.90700157825188,
+          "lon": 29.37489046239085
+        }
+      ]
+    },
+    {
+      "name": "Zeytinburnu",
+      "population": 275471,
+      "lat": 40.99031402242193,
+      "lon": 28.900084061333246,
+      "neighborhoods": [
+        {
+          "name": "Sümer",
+          "population": 38053,
+          "lat": 40.9871204064591,
+          "lon": 28.89521681016612
+        },
+        {
+          "name": "Telsiz",
+          "population": 33987,
+          "lat": 40.999918,
+          "lon": 28.91231
+        },
+        {
+          "name": "Çırpıcı",
+          "population": 25399,
+          "lat": 41.000264,
+          "lon": 28.896809
+        },
+        {
+          "name": "Nuripaşa",
+          "population": 25261,
+          "lat": 40.987720510433775,
+          "lon": 28.901841758946063
+        },
+        {
+          "name": "Merkezefendi",
+          "population": 23844,
+          "lat": 41.014392195356294,
+          "lon": 28.91934663357509
+        },
+        {
+          "name": "Veliefendi",
+          "population": 23267,
+          "lat": 40.995204653633124,
+          "lon": 28.89686962496785
+        },
+        {
+          "name": "Seyitnizam",
+          "population": 21530,
+          "lat": 41.007053,
+          "lon": 28.908243
+        },
+        {
+          "name": "Beştelsiz",
+          "population": 20808,
+          "lat": 40.999144,
+          "lon": 28.905675
+        },
+        {
+          "name": "Yeşiltepe",
+          "population": 18359,
+          "lat": 40.991838161170136,
+          "lon": 28.90192473689308
+        },
+        {
+          "name": "Gökalp",
+          "population": 17623,
+          "lat": 40.99312328846497,
+          "lon": 28.906361857745367
+        },
+        {
+          "name": "Maltepe",
+          "population": 12032,
+          "lat": 41.02779169194946,
+          "lon": 28.909291040086146
+        },
+        {
+          "name": "Yenidoğan",
+          "population": 9367,
+          "lat": 40.98967675422716,
+          "lon": 28.906413452174547
+        },
+        {
+          "name": "Kazlıçeşme",
+          "population": 5941,
+          "lat": 40.98760353233831,
+          "lon": 28.90853614123003
+        }
+      ]
+    },
+    {
+      "name": "Çatalca",
+      "population": 81143,
+      "lat": 41.14345942581943,
+      "lon": 28.46163953193752,
+      "neighborhoods": [
+        {
+          "name": "Ferhatpaşa",
+          "population": 28499,
+          "lat": 41.13943816158812,
+          "lon": 28.46552619120331
+        },
+        {
+          "name": "Kaleiçi",
+          "population": 7810,
+          "lat": 41.15424906560921,
+          "lon": 28.454174288364783
+        },
+        {
+          "name": "Çanakça",
+          "population": 3046,
+          "lat": 41.246141055934004,
+          "lon": 28.493967741208934
+        },
+        {
+          "name": "Çakıl",
+          "population": 2831,
+          "lat": 41.12463829307228,
+          "lon": 28.44819036560756
+        },
+        {
+          "name": "Karacaköy Merkez",
+          "population": 2591,
+          "lat": 41.4023680944986,
+          "lon": 28.38131828477421
+        },
+        {
+          "name": "Kestanelik",
+          "population": 2503,
+          "lat": 41.23515509793711,
+          "lon": 28.49483481648437
+        },
+        {
+          "name": "Gökçeali",
+          "population": 2068,
+          "lat": 41.20099280173545,
+          "lon": 28.44379696380983
+        },
+        {
+          "name": "Kabakça",
+          "population": 2001,
+          "lat": 41.228257225011276,
+          "lon": 28.369184646115087
+        },
+        {
+          "name": "Çiftlikköy",
+          "population": 1965,
+          "lat": 41.340209,
+          "lon": 28.407267
+        },
+        {
+          "name": "İhsaniye",
+          "population": 1918,
+          "lat": 41.25426529629661,
+          "lon": 28.358577664093758
+        },
+        {
+          "name": "Subaşı",
+          "population": 1569,
+          "lat": 41.22669649269503,
+          "lon": 28.458428006444393
+        },
+        {
+          "name": "Oklalı",
+          "population": 1519,
+          "lat": 41.22445085659626,
+          "lon": 28.475425044869354
+        },
+        {
+          "name": "Atatürk",
+          "population": 1468,
+          "lat": 41.41176628850616,
+          "lon": 28.185313279326124
+        },
+        {
+          "name": "Yalıköy",
+          "population": 1467,
+          "lat": 41.47719862869167,
+          "lon": 28.295984472028664
+        },
+        {
+          "name": "Muratbey Merkez",
+          "population": 1435,
+          "lat": 41.095691821690195,
+          "lon": 28.492930763759347
+        },
+        {
+          "name": "Hallaçlı",
+          "population": 1413,
+          "lat": 41.32002933719065,
+          "lon": 28.098875112025894
+        },
+        {
+          "name": "İzzettin",
+          "population": 1406,
+          "lat": 41.176277573800604,
+          "lon": 28.504667214632747
+        },
+        {
+          "name": "Fatih",
+          "population": 1390,
+          "lat": 41.413785913724695,
+          "lon": 28.18941684407389
+        },
+        {
+          "name": "Ovayenice",
+          "population": 1287,
+          "lat": 41.10002337621978,
+          "lon": 28.419274774202506
+        },
+        {
+          "name": "Akalan",
+          "population": 1166,
+          "lat": 41.25700751586311,
+          "lon": 28.419407762880297
+        },
+        {
+          "name": "Ormanlı",
+          "population": 1081,
+          "lat": 41.39311201490554,
+          "lon": 28.454263168051398
+        },
+        {
+          "name": "İnceğiz",
+          "population": 1072,
+          "lat": 41.18634644254183,
+          "lon": 28.40314582182299
+        },
+        {
+          "name": "Örencik",
+          "population": 1020,
+          "lat": 41.32925674125585,
+          "lon": 28.482659246403642
+        },
+        {
+          "name": "Gümüşpınar",
+          "population": 926,
+          "lat": 41.31468168200499,
+          "lon": 28.285493648256164
+        },
+        {
+          "name": "Kalfa",
+          "population": 923,
+          "lat": 41.28965712671604,
+          "lon": 28.438483708246707
+        },
+        {
+          "name": "Aydınlar",
+          "population": 860,
+          "lat": 41.37515860300314,
+          "lon": 28.205282118499298
+        },
+        {
+          "name": "Dağyenice",
+          "population": 812,
+          "lat": 41.273222200606284,
+          "lon": 28.482784346292732
+        },
+        {
+          "name": "Nakkaş",
+          "population": 793,
+          "lat": 41.18737252082178,
+          "lon": 28.555499589784972
+        },
+        {
+          "name": "Elbasan",
+          "population": 676,
+          "lat": 41.13910769388568,
+          "lon": 28.41507049884811
+        },
+        {
+          "name": "Karamandere",
+          "population": 626,
+          "lat": 41.376876478947,
+          "lon": 28.305740242659482
+        },
+        {
+          "name": "Örcünlü",
+          "population": 532,
+          "lat": 41.22391429405417,
+          "lon": 28.523119936944454
+        },
+        {
+          "name": "Başak",
+          "population": 414,
+          "lat": 41.332208162090666,
+          "lon": 28.445463570412556
+        },
+        {
+          "name": "Belgrat",
+          "population": 411,
+          "lat": 41.37866360017222,
+          "lon": 28.383858723165105
+        },
+        {
+          "name": "Bahşayiş",
+          "population": 398,
+          "lat": 41.111418633886416,
+          "lon": 28.54042758627304
+        },
+        {
+          "name": "Hisarbeyli",
+          "population": 368,
+          "lat": 41.36816,
+          "lon": 28.472717
+        },
+        {
+          "name": "Yazlık",
+          "population": 342,
+          "lat": 41.29425922267626,
+          "lon": 28.518000906587815
+        },
+        {
+          "name": "Celepköy",
+          "population": 283,
+          "lat": 41.36529379890794,
+          "lon": 28.500190654086254
+        },
+        {
+          "name": "Kızılcaali",
+          "population": 201,
+          "lat": 41.23615537621663,
+          "lon": 28.559504814037467
+        },
+        {
+          "name": "Yaylacık",
+          "population": 53,
+          "lat": 41.35728421806223,
+          "lon": 28.22004841664352
+        }
+      ]
+    },
+    {
+      "name": "Çekmeköy",
+      "population": 315959,
+      "lat": 41.035294184353745,
+      "lon": 29.173766089217764,
+      "neighborhoods": [
+        {
+          "name": "Merkez",
+          "population": 33447,
+          "lat": 41.03707334192322,
+          "lon": 29.178127484663918
+        },
+        {
+          "name": "Mehmet Akif",
+          "population": 33245,
+          "lat": 41.020597049487236,
+          "lon": 29.185933436803595
+        },
+        {
+          "name": "Hamidiye",
+          "population": 29664,
+          "lat": 41.026246,
+          "lon": 29.188054
+        },
+        {
+          "name": "Mimar Sinan",
+          "population": 27140,
+          "lat": 41.031452249954924,
+          "lon": 29.175051929367584
+        },
+        {
+          "name": "Sultançiftliği",
+          "population": 21027,
+          "lat": 41.03284045540721,
+          "lon": 29.22311073384145
+        },
+        {
+          "name": "Aydınlar",
+          "population": 20493,
+          "lat": 41.01740342465615,
+          "lon": 29.230445979087392
+        },
+        {
+          "name": "Çamlık",
+          "population": 20454,
+          "lat": 41.01767712044642,
+          "lon": 29.193399585293804
+        },
+        {
+          "name": "Cumhuriyet",
+          "population": 17528,
+          "lat": 41.0227675474641,
+          "lon": 29.22505279336582
+        },
+        {
+          "name": "Güngören",
+          "population": 15599,
+          "lat": 41.026462,
+          "lon": 29.220019
+        },
+        {
+          "name": "Çatalmeşe",
+          "population": 15233,
+          "lat": 41.050161344114,
+          "lon": 29.24507747590755
+        },
+        {
+          "name": "Nişantepe",
+          "population": 13587,
+          "lat": 41.04076592176807,
+          "lon": 29.264535735229884
+        },
+        {
+          "name": "Taşdelen",
+          "population": 12849,
+          "lat": 41.0310092135438,
+          "lon": 29.231250318659335
+        },
+        {
+          "name": "Ekşioğlu",
+          "population": 11330,
+          "lat": 41.02998585031719,
+          "lon": 29.240246701879244
+        },
+        {
+          "name": "Kirazlıdere",
+          "population": 10779,
+          "lat": 41.019335907935044,
+          "lon": 29.215859209680758
+        },
+        {
+          "name": "Alemdağ",
+          "population": 10670,
+          "lat": 41.05000009234621,
+          "lon": 29.23643901716875
+        },
+        {
+          "name": "Soğukpınar",
+          "population": 10618,
+          "lat": 41.02365,
+          "lon": 29.236401
+        },
+        {
+          "name": "Ömerli",
+          "population": 5899,
+          "lat": 41.07736341571919,
+          "lon": 29.330266533460957
+        },
+        {
+          "name": "Reşadiye",
+          "population": 2953,
+          "lat": 41.07839827851129,
+          "lon": 29.254825353341545
+        },
+        {
+          "name": "Koçullu",
+          "population": 1369,
+          "lat": 41.07724231557512,
+          "lon": 29.34832765209285
+        },
+        {
+          "name": "Sırapınar",
+          "population": 1233,
+          "lat": 41.10144225074501,
+          "lon": 29.327537295063195
+        },
+        {
+          "name": "Hüseyinli",
+          "population": 842,
+          "lat": 41.122185630451725,
+          "lon": 29.292946321749525
+        }
+      ]
+    },
+    {
+      "name": "Ümraniye",
+      "population": 728783,
+      "lat": 41.02257500383348,
+      "lon": 29.095718584441272,
+      "neighborhoods": [
+        {
+          "name": "İstiklal",
+          "population": 47729,
+          "lat": 41.02285371205741,
+          "lon": 29.10100929826649
+        },
+        {
+          "name": "Armağanevler",
+          "population": 39675,
+          "lat": 41.01710926032382,
+          "lon": 29.115492657691618
+        },
+        {
+          "name": "Çakmak",
+          "population": 37696,
+          "lat": 41.01434021916472,
+          "lon": 29.127590521248635
+        },
+        {
+          "name": "İnkılap",
+          "population": 35479,
+          "lat": 41.033711275523586,
+          "lon": 29.106642056492092
+        },
+        {
+          "name": "Necip Fazıl",
+          "population": 29138,
+          "lat": 41.01778042522244,
+          "lon": 29.17564935224098
+        },
+        {
+          "name": "Namık Kemal",
+          "population": 28670,
+          "lat": 41.020421024767785,
+          "lon": 29.09179477603064
+        },
+        {
+          "name": "Altınşehir",
+          "population": 28370,
+          "lat": 41.011343,
+          "lon": 29.142883
+        },
+        {
+          "name": "Mehmet Akif",
+          "population": 26384,
+          "lat": 41.00781,
+          "lon": 29.136353
+        },
+        {
+          "name": "Esenevler",
+          "population": 26274,
+          "lat": 41.012989423410346,
+          "lon": 29.092161790491673
+        },
+        {
+          "name": "Çamlık",
+          "population": 24194,
+          "lat": 41.003323,
+          "lon": 29.124232
+        },
+        {
+          "name": "Atatürk",
+          "population": 23972,
+          "lat": 41.027314580744275,
+          "lon": 29.09359211069554
+        },
+        {
+          "name": "Tatlısu",
+          "population": 23473,
+          "lat": 41.00367851847747,
+          "lon": 29.134109586106916
+        },
+        {
+          "name": "Elmalıkent",
+          "population": 22509,
+          "lat": 41.03598088808647,
+          "lon": 29.097534329206695
+        },
+        {
+          "name": "Cemil Meriç",
+          "population": 21995,
+          "lat": 41.02056383434356,
+          "lon": 29.14425319270572
+        },
+        {
+          "name": "Yukarı Dudullu",
+          "population": 21576,
+          "lat": 41.009324,
+          "lon": 29.155592
+        },
+        {
+          "name": "Esenkent",
+          "population": 21558,
+          "lat": 41.00485901061853,
+          "lon": 29.182722298972635
+        },
+        {
+          "name": "Site",
+          "population": 21536,
+          "lat": 41.01024117558231,
+          "lon": 29.117152805608782
+        },
+        {
+          "name": "Esenşehir",
+          "population": 20651,
+          "lat": 41.0083861223458,
+          "lon": 29.166839180447283
+        },
+        {
+          "name": "Atakent",
+          "population": 20091,
+          "lat": 41.020407294186754,
+          "lon": 29.1087574750606
+        },
+        {
+          "name": "Yamanevler",
+          "population": 19270,
+          "lat": 41.02666970719619,
+          "lon": 29.10188010922687
+        },
+        {
+          "name": "Adem Yavuz",
+          "population": 16699,
+          "lat": 41.02002610431583,
+          "lon": 29.15552421174121
+        },
+        {
+          "name": "Madenler",
+          "population": 16003,
+          "lat": 41.01173350218505,
+          "lon": 29.18699513681844
+        },
+        {
+          "name": "Parseller",
+          "population": 15839,
+          "lat": 41.02661980072784,
+          "lon": 29.155463094070655
+        },
+        {
+          "name": "Ihlamurkuyu",
+          "population": 15817,
+          "lat": 41.02081000489838,
+          "lon": 29.136455498769777
+        },
+        {
+          "name": "Kazım Karabekir",
+          "population": 15635,
+          "lat": 41.03930254199662,
+          "lon": 29.102911941085438
+        },
+        {
+          "name": "Aşağı Dudullu",
+          "population": 15527,
+          "lat": 41.019242194402835,
+          "lon": 29.16359174415132
+        },
+        {
+          "name": "Tepeüstü",
+          "population": 13142,
+          "lat": 41.01661372249322,
+          "lon": 29.132238379555588
+        },
+        {
+          "name": "Topağacı",
+          "population": 13141,
+          "lat": 41.047689796485685,
+          "lon": 29.102757488821197
+        },
+        {
+          "name": "Huzur",
+          "population": 12230,
+          "lat": 41.02666590816847,
+          "lon": 29.161635978718948
+        },
+        {
+          "name": "Tantavi",
+          "population": 11942,
+          "lat": 41.03075913914785,
+          "lon": 29.087493812235493
+        },
+        {
+          "name": "Dumlupınar",
+          "population": 11793,
+          "lat": 41.049660132959076,
+          "lon": 29.094486724365055
+        },
+        {
+          "name": "Şerifali",
+          "population": 9854,
+          "lat": 41.000265,
+          "lon": 29.147984
+        },
+        {
+          "name": "Finanskent",
+          "population": 8861,
+          "lat": 41.001583,
+          "lon": 29.112437
+        },
+        {
+          "name": "Hekimbaşı",
+          "population": 7403,
+          "lat": 41.0592241138703,
+          "lon": 29.09845864870536
+        },
+        {
+          "name": "Fatih Sultan Mehmet",
+          "population": 4657,
+          "lat": 41.025340158665614,
+          "lon": 29.122848051000688
+        }
+      ]
+    },
+    {
+      "name": "Üsküdar",
+      "population": 514294,
+      "lat": 41.022558700125785,
+      "lon": 29.01296483970222,
+      "neighborhoods": [
+        {
+          "name": "Cumhuriyet",
+          "population": 37392,
+          "lat": 41.01041814460143,
+          "lon": 29.08084770607931
+        },
+        {
+          "name": "Ünalan",
+          "population": 34492,
+          "lat": 41.00188298454117,
+          "lon": 29.064701081556052
+        },
+        {
+          "name": "Yavuztürk",
+          "population": 30818,
+          "lat": 41.04159361113912,
+          "lon": 29.084789541976193
+        },
+        {
+          "name": "Bulgurlu",
+          "population": 30419,
+          "lat": 41.01907093840231,
+          "lon": 29.07904617746175
+        },
+        {
+          "name": "Acıbadem",
+          "population": 24109,
+          "lat": 41.006508500037256,
+          "lon": 29.053259561145097
+        },
+        {
+          "name": "Bahçelievler",
+          "population": 23376,
+          "lat": 41.05279923061414,
+          "lon": 29.079508861548987
+        },
+        {
+          "name": "Ferah",
+          "population": 21588,
+          "lat": 41.033698,
+          "lon": 29.073352
+        },
+        {
+          "name": "Kısıklı",
+          "population": 19905,
+          "lat": 41.025151,
+          "lon": 29.072021
+        },
+        {
+          "name": "Valide-i Atik",
+          "population": 19455,
+          "lat": 41.01853960624479,
+          "lon": 29.026968859256442
+        },
+        {
+          "name": "Küçüksu",
+          "population": 18707,
+          "lat": 41.06621848053905,
+          "lon": 29.07101718184495
+        },
+        {
+          "name": "Mehmet Akif Ersoy",
+          "population": 18182,
+          "lat": 41.040455,
+          "lon": 29.07104
+        },
+        {
+          "name": "Burhaniye",
+          "population": 16981,
+          "lat": 41.029339,
+          "lon": 29.053511
+        },
+        {
+          "name": "Barbaros",
+          "population": 16742,
+          "lat": 41.012632869832146,
+          "lon": 29.031608127421293
+        },
+        {
+          "name": "Küplüce",
+          "population": 16577,
+          "lat": 41.034547952688484,
+          "lon": 29.05745280365963
+        },
+        {
+          "name": "İcadiye",
+          "population": 15185,
+          "lat": 41.02852195626792,
+          "lon": 29.03411751783287
+        },
+        {
+          "name": "Muratreis",
+          "population": 13566,
+          "lat": 41.022057,
+          "lon": 29.029652
+        },
+        {
+          "name": "Güzeltepe",
+          "population": 13541,
+          "lat": 41.05002019110893,
+          "lon": 29.06993937037643
+        },
+        {
+          "name": "Çengelköy",
+          "population": 13272,
+          "lat": 41.05097315501263,
+          "lon": 29.053511938748045
+        },
+        {
+          "name": "Selami Ali",
+          "population": 12874,
+          "lat": 41.025642,
+          "lon": 29.029112
+        },
+        {
+          "name": "Altunizade",
+          "population": 12608,
+          "lat": 41.01832472103777,
+          "lon": 29.044171102504464
+        },
+        {
+          "name": "Zeynep Kamil",
+          "population": 11525,
+          "lat": 41.01505837958666,
+          "lon": 29.021244271685077
+        },
+        {
+          "name": "Mimar Sinan",
+          "population": 11364,
+          "lat": 41.02360165507494,
+          "lon": 29.018538665088585
+        },
+        {
+          "name": "Kirazlıtepe",
+          "population": 11075,
+          "lat": 41.03970614695939,
+          "lon": 29.061541054056562
+        },
+        {
+          "name": "Küçük Çamlıca",
+          "population": 10955,
+          "lat": 41.014173,
+          "lon": 29.066549
+        },
+        {
+          "name": "Sultantepe",
+          "population": 10543,
+          "lat": 41.0289731445246,
+          "lon": 29.021728485029854
+        },
+        {
+          "name": "Salacak",
+          "population": 9212,
+          "lat": 41.016945,
+          "lon": 29.012121
+        },
+        {
+          "name": "Selimiye",
+          "population": 8611,
+          "lat": 41.005991997714005,
+          "lon": 29.01753874304339
+        },
+        {
+          "name": "Aziz Mahmut Hüdayi",
+          "population": 8566,
+          "lat": 41.02248433022294,
+          "lon": 29.011617895040217
+        },
+        {
+          "name": "Ahmediye",
+          "population": 8180,
+          "lat": 41.018641,
+          "lon": 29.016308
+        },
+        {
+          "name": "Beylerbeyi",
+          "population": 5169,
+          "lat": 41.042132,
+          "lon": 29.046609
+        },
+        {
+          "name": "Kuleli",
+          "population": 4064,
+          "lat": 41.059016,
+          "lon": 29.05888
+        },
+        {
+          "name": "Kuzguncuk",
+          "population": 3827,
+          "lat": 41.032152859802096,
+          "lon": 29.03568394726716
+        },
+        {
+          "name": "Kandilli",
+          "population": 1414,
+          "lat": 41.07242381497875,
+          "lon": 29.05766625399329
+        }
+      ]
+    },
+    {
+      "name": "Şile",
+      "population": 50090,
+      "lat": 41.16944044140291,
+      "lon": 29.617620142791225,
+      "neighborhoods": [
+        {
+          "name": "Çavuş",
+          "population": 13106,
+          "lat": 41.162792586170326,
+          "lon": 29.607822702929212
+        },
+        {
+          "name": "Balibey",
+          "population": 4197,
+          "lat": 41.17046205929333,
+          "lon": 29.629546431649345
+        },
+        {
+          "name": "Ahmetli",
+          "population": 3497,
+          "lat": 41.146086524357315,
+          "lon": 29.57777676840675
+        },
+        {
+          "name": "Meşrutiyet",
+          "population": 2484,
+          "lat": 41.15889486381033,
+          "lon": 29.562951742889908
+        },
+        {
+          "name": "Ağva Merkez",
+          "population": 2239,
+          "lat": 41.13727486415641,
+          "lon": 29.856720346066396
+        },
+        {
+          "name": "Kumbaba",
+          "population": 1710,
+          "lat": 41.166057,
+          "lon": 29.580953
+        },
+        {
+          "name": "Çayırbaşı",
+          "population": 1555,
+          "lat": 41.150948905008875,
+          "lon": 29.649467086509475
+        },
+        {
+          "name": "Sahilköy",
+          "population": 1078,
+          "lat": 41.20184958158552,
+          "lon": 29.413391200156838
+        },
+        {
+          "name": "Hacı Kasım",
+          "population": 1063,
+          "lat": 41.17712099512519,
+          "lon": 29.612233126036585
+        },
+        {
+          "name": "Doğancılı",
+          "population": 948,
+          "lat": 41.19217880093899,
+          "lon": 29.439719908910178
+        },
+        {
+          "name": "Göçe",
+          "population": 871,
+          "lat": 41.11658557939171,
+          "lon": 29.849492993661585
+        },
+        {
+          "name": "Kabakoz",
+          "population": 790,
+          "lat": 41.143994674388836,
+          "lon": 29.68851426510679
+        },
+        {
+          "name": "Kızılca",
+          "population": 738,
+          "lat": 41.155083,
+          "lon": 29.539887
+        },
+        {
+          "name": "Geredeli",
+          "population": 730,
+          "lat": 41.077209619767245,
+          "lon": 29.880169889378635
+        },
+        {
+          "name": "Alacalı",
+          "population": 681,
+          "lat": 41.18485434645905,
+          "lon": 29.457563536168976
+        },
+        {
+          "name": "Değirmençayırı",
+          "population": 614,
+          "lat": 40.9780211,
+          "lon": 29.662076
+        },
+        {
+          "name": "Üvezli",
+          "population": 571,
+          "lat": 41.114323187422144,
+          "lon": 29.4446047318703
+        },
+        {
+          "name": "Teke",
+          "population": 524,
+          "lat": 41.06755136962062,
+          "lon": 29.662564794607988
+        },
+        {
+          "name": "Akçakese",
+          "population": 518,
+          "lat": 41.1426525310373,
+          "lon": 29.718407264021323
+        },
+        {
+          "name": "Yeniköy",
+          "population": 479,
+          "lat": 41.12289567548396,
+          "lon": 29.651209819546153
+        },
+        {
+          "name": "İmrendere",
+          "population": 469,
+          "lat": 41.14224316315597,
+          "lon": 29.598758575232893
+        },
+        {
+          "name": "Oruçoğlu",
+          "population": 456,
+          "lat": 41.06247456151769,
+          "lon": 29.489059507878807
+        },
+        {
+          "name": "Satmazlı",
+          "population": 453,
+          "lat": 41.12919735945886,
+          "lon": 29.55710852369313
+        },
+        {
+          "name": "Kervansaray",
+          "population": 430,
+          "lat": 41.07216503415299,
+          "lon": 29.45364071676667
+        },
+        {
+          "name": "İmrenli",
+          "population": 412,
+          "lat": 41.14588592770852,
+          "lon": 29.73857889467618
+        },
+        {
+          "name": "Bucaklı",
+          "population": 400,
+          "lat": 41.11727141964039,
+          "lon": 29.891009037118465
+        },
+        {
+          "name": "Karamandere",
+          "population": 375,
+          "lat": 41.13730025596146,
+          "lon": 29.590095956806493
+        },
+        {
+          "name": "Bıçkıdere",
+          "population": 364,
+          "lat": 41.069987279500054,
+          "lon": 29.474383663754566
+        },
+        {
+          "name": "Sofular",
+          "population": 362,
+          "lat": 41.173020826778696,
+          "lon": 29.493001192414653
+        },
+        {
+          "name": "Karacaköy",
+          "population": 352,
+          "lat": 41.151423912173925,
+          "lon": 29.76906180890549
+        },
+        {
+          "name": "Kalem",
+          "population": 349,
+          "lat": 41.08886529897299,
+          "lon": 29.85411705018393
+        },
+        {
+          "name": "Kurfallı",
+          "population": 330,
+          "lat": 41.132970068498906,
+          "lon": 29.825295916640187
+        },
+        {
+          "name": "Yaka",
+          "population": 328,
+          "lat": 40.99190343773185,
+          "lon": 29.653429035570895
+        },
+        {
+          "name": "Yeşilvadi",
+          "population": 326,
+          "lat": 41.12307885183222,
+          "lon": 29.476281802552307
+        },
+        {
+          "name": "Karakiraz",
+          "population": 320,
+          "lat": 41.17865616073968,
+          "lon": 29.34900446296271
+        },
+        {
+          "name": "Göksu",
+          "population": 307,
+          "lat": 41.07896091545621,
+          "lon": 29.775618541210463
+        },
+        {
+          "name": "Osmanköy",
+          "population": 306,
+          "lat": 41.08119249133003,
+          "lon": 29.731101894687214
+        },
+        {
+          "name": "Hasanlı",
+          "population": 303,
+          "lat": 41.01798595370752,
+          "lon": 29.66462944265018
+        },
+        {
+          "name": "Şuayipli",
+          "population": 303,
+          "lat": 41.1336708060698,
+          "lon": 29.80211423046933
+        },
+        {
+          "name": "İsaköy",
+          "population": 286,
+          "lat": 41.10816078923355,
+          "lon": 29.824221114593627
+        },
+        {
+          "name": "Kurna",
+          "population": 279,
+          "lat": 41.195653004686534,
+          "lon": 29.3649763810688
+        },
+        {
+          "name": "Hacıllı",
+          "population": 274,
+          "lat": 41.04528112091805,
+          "lon": 29.769387880983146
+        },
+        {
+          "name": "Çelebi",
+          "population": 265,
+          "lat": 41.09575651022186,
+          "lon": 29.905686138091767
+        },
+        {
+          "name": "Kömürlük",
+          "population": 258,
+          "lat": 41.07936006029186,
+          "lon": 29.437188440917623
+        },
+        {
+          "name": "Kadıköy",
+          "population": 252,
+          "lat": 41.109915679346415,
+          "lon": 29.90491197209741
+        },
+        {
+          "name": "Çataklı",
+          "population": 248,
+          "lat": 41.07449453063268,
+          "lon": 29.798958167530486
+        },
+        {
+          "name": "Korucu",
+          "population": 245,
+          "lat": 41.12282812411891,
+          "lon": 29.5684022073998
+        },
+        {
+          "name": "Ulupelit",
+          "population": 242,
+          "lat": 41.08686948304671,
+          "lon": 29.515161696283002
+        },
+        {
+          "name": "Karabeyli",
+          "population": 239,
+          "lat": 41.10511767784382,
+          "lon": 29.73306453427395
+        },
+        {
+          "name": "Erenler",
+          "population": 232,
+          "lat": 41.117304640964704,
+          "lon": 29.56621441548353
+        },
+        {
+          "name": "Gökmaşlı",
+          "population": 230,
+          "lat": 41.09733135060634,
+          "lon": 29.804616414147006
+        },
+        {
+          "name": "Çengilli",
+          "population": 226,
+          "lat": 41.00488430307564,
+          "lon": 29.671462618708432
+        },
+        {
+          "name": "Yazımanayır",
+          "population": 201,
+          "lat": 41.06868863409662,
+          "lon": 29.684797223679965
+        },
+        {
+          "name": "Soğullu",
+          "population": 196,
+          "lat": 41.09568825741158,
+          "lon": 29.821530910276834
+        },
+        {
+          "name": "Darlık",
+          "population": 193,
+          "lat": 41.042873667587884,
+          "lon": 29.57525535028188
+        },
+        {
+          "name": "Ovacık",
+          "population": 164,
+          "lat": 41.11899482083339,
+          "lon": 29.61824158040838
+        },
+        {
+          "name": "Sortullu",
+          "population": 159,
+          "lat": 41.06936147095831,
+          "lon": 29.735552802750306
+        },
+        {
+          "name": "Bozgoca",
+          "population": 135,
+          "lat": 41.1414803245066,
+          "lon": 29.775218632529942
+        },
+        {
+          "name": "Ağaçdere",
+          "population": 129,
+          "lat": 41.04044481695644,
+          "lon": 29.707045807513083
+        },
+        {
+          "name": "Avcıkoru",
+          "population": 129,
+          "lat": 41.12035171098694,
+          "lon": 29.41383273470396
+        },
+        {
+          "name": "Esenceli",
+          "population": 100,
+          "lat": 41.05333611241534,
+          "lon": 29.392477094228042
+        },
+        {
+          "name": "Yaylalı",
+          "population": 70,
+          "lat": 41.0928234482883,
+          "lon": 29.671713792204883
+        }
+      ]
+    },
+    {
+      "name": "Şişli",
+      "population": 261959,
+      "lat": 41.063363042257095,
+      "lon": 28.98343370674894,
+      "neighborhoods": [
+        {
+          "name": "Gülbahar",
+          "population": 22921,
+          "lat": 41.07180953035217,
+          "lon": 29.0004449053865
+        },
+        {
+          "name": "Mecidiyeköy",
+          "population": 19289,
+          "lat": 41.070170766953254,
+          "lon": 28.996173725082997
+        },
+        {
+          "name": "Paşa",
+          "population": 18827,
+          "lat": 41.054032042693876,
+          "lon": 28.973095147221073
+        },
+        {
+          "name": "Mahmut Şevket Paşa",
+          "population": 18074,
+          "lat": 41.05230524506385,
+          "lon": 28.965375148129795
+        },
+        {
+          "name": "Halide Edip Adıvar",
+          "population": 16468,
+          "lat": 41.06166328878186,
+          "lon": 28.97692966494995
+        },
+        {
+          "name": "Fulya",
+          "population": 16382,
+          "lat": 41.05880228954484,
+          "lon": 28.9978072346251
+        },
+        {
+          "name": "Kuştepe",
+          "population": 14678,
+          "lat": 41.072445,
+          "lon": 28.991312
+        },
+        {
+          "name": "Feriköy",
+          "population": 13456,
+          "lat": 41.048879,
+          "lon": 28.979459
+        },
+        {
+          "name": "Merkez",
+          "population": 13206,
+          "lat": 41.06366155945963,
+          "lon": 28.985320280013866
+        },
+        {
+          "name": "Eskişehir",
+          "population": 11231,
+          "lat": 41.045245,
+          "lon": 28.980807
+        },
+        {
+          "name": "Yayla",
+          "population": 11125,
+          "lat": 41.04859626309181,
+          "lon": 28.975560803637848
+        },
+        {
+          "name": "19 Mayıs",
+          "population": 10703,
+          "lat": 41.06024678852256,
+          "lon": 28.991254947625805
+        },
+        {
+          "name": "Teşvikiye",
+          "population": 10541,
+          "lat": 41.052105,
+          "lon": 28.99662
+        },
+        {
+          "name": "Bozkurt",
+          "population": 9649,
+          "lat": 41.048931,
+          "lon": 28.983402
+        },
+        {
+          "name": "Cumhuriyet",
+          "population": 7635,
+          "lat": 41.0555062299029,
+          "lon": 28.982456607443567
+        },
+        {
+          "name": "İzzet Paşa",
+          "population": 7444,
+          "lat": 41.0547241,
+          "lon": 28.9646276
+        },
+        {
+          "name": "Duatepe",
+          "population": 7388,
+          "lat": 41.053419,
+          "lon": 28.980416
+        },
+        {
+          "name": "Esentepe",
+          "population": 7038,
+          "lat": 41.07089160403484,
+          "lon": 29.01087295515177
+        },
+        {
+          "name": "Meşrutiyet",
+          "population": 6920,
+          "lat": 41.054497,
+          "lon": 28.990937
+        },
+        {
+          "name": "Halil Rıfat Paşa",
+          "population": 6594,
+          "lat": 41.05753479563066,
+          "lon": 28.96863929343803
+        },
+        {
+          "name": "İnönü",
+          "population": 3207,
+          "lat": 41.04354496173164,
+          "lon": 28.984324610632513
+        },
+        {
+          "name": "Kaptanpaşa",
+          "population": 3059,
+          "lat": 41.06522682683379,
+          "lon": 28.97253912551969
+        },
+        {
+          "name": "Ergenekon",
+          "population": 2287,
+          "lat": 41.049009,
+          "lon": 28.98654
+        },
+        {
+          "name": "Harbiye",
+          "population": 2225,
+          "lat": 41.04583189432532,
+          "lon": 28.990058492886078
+        },
+        {
+          "name": "Halaskargazi",
+          "population": 1612,
+          "lat": 41.05139306259821,
+          "lon": 28.99029168297028
+        }
+      ]
+    }
+  ]
+}
